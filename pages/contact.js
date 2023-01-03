@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { useState } from 'react'
-
+/* eslint-disable */
 
 export default function Press() {
     const [navBar, setNavbar ] = useState(false);
