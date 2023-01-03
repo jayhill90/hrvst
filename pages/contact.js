@@ -59,7 +59,7 @@ export default function Press() {
         </div> 
         <div class="rounded-lg border border-gray-200 bg-gray-100 shadow-md lg:mx-40 sm:mx-4">
         <div class="flex lg:flex-row flex-wrap mx-auto justify-center text-center lg:px-32">
-            <img class="basis-1/2 rounded-t-lg sm:w-full h-3/6" src="/BW_HEADSHOT.jpg" alt="HRVST headshot in black and white." />
+            <img class="basis-1/2 rounded-t-lg sm:w-full h-3/6" src="BW_Headshot.jpg" alt="HRVST headshot in black and white." />
             <p class="basis-full text-lg mx-8 mt-4">Bookings & General Inquiries: <a href="mailto:jay@slabbedout.live">jay@slabbedout.live</a>.</p>
             <p class="text-lg mx-8 mt-4">Licensing & Remixes: <a href="mailto:hrvst@soundsofibiza.co.uk">hrvst@soundsofibiza.co.uk</a>.</p>
         </div> 
