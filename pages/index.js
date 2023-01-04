@@ -114,13 +114,13 @@ export default function Home() {
       </div>
       <div class="grid gap-6 lg:grid-cols-3 md:grid-cols-2 mx-auto w-5/6">
         <div class="p-5 mx-2 h-full">
-          <iframe width="320" height="320" src="https://www.youtube.com/embed/DDy28bM1KIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe loading="lazy" width="320" height="320" src="https://www.youtube.com/embed/DDy28bM1KIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="p-5 mx-2 h-full">
-          <iframe width="320" height="320" src="https://www.youtube.com/embed/aWUYoKEMEEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe loading="lazy" width="320" height="320" src="https://www.youtube.com/embed/aWUYoKEMEEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="p-5 mx-2 h-full">
-          <iframe width="320" height="320" src="https://www.youtube.com/embed/mQn-NMacEQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe loading="lazy" width="320" height="320" src="https://www.youtube.com/embed/mQn-NMacEQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section>
