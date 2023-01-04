@@ -21,7 +21,7 @@ export default function Home() {
       <nav class="fixed top-0 left-0 z-20 w-screen border-b border-gray-400 bg-gray-900 px-2 py-2.5 dark:border-gray-600 dark:bg-gray-900 sm:px-4">
         <div class="flex container mx-auto w-full flex-wrap items-center justify-between">
           <a href="https://hrvstmusic.com" class="flex items-center">
-            <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">HRVST</span>
+            <span class="self-center whitespace-nowrap text-xl font-semibold text-white">HRVST</span>
           </a>
           <div class="flex md:order-2">
             <button onClick={ () => setNavbar(!navBar) } data-collapse-toggle="navbar-sticky" type="button" class="inline-flex items-center rounded-lg p-2 text-sm text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600 md:hidden" aria-controls="navbar-sticky" aria-expanded="false">
