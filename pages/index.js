@@ -3,6 +3,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Layout from '../components/layout'
 import { useState } from 'react'
+import LiteYouTubeEmbed from 'react-lite-youtube-embed';
+import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
 
 export default function Home() {
   const [navBar, setNavbar ] = useState(false);
@@ -114,13 +116,13 @@ export default function Home() {
       </div>
       <div class="grid gap-6 lg:grid-cols-3 md:grid-cols-2 mx-auto w-5/6">
         <div class="p-5 mx-2 h-full">
-          <iframe loading="lazy" width="320" height="320" src="https://www.youtube.com/embed/DDy28bM1KIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <LiteYouTubeEmbed aspectHeight = {9}    aspectWidth = {16}    id={'DDy28bM1KIg'}    title={"The Slabbed Out Sesh"}/>
         </div>
         <div class="p-5 mx-2 h-full">
-          <iframe loading="lazy" width="320" height="320" src="https://www.youtube.com/embed/aWUYoKEMEEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         <LiteYouTubeEmbed aspectHeight = {9}    aspectWidth = {16}    id={'aWUYoKEMEEQ'}    title={"The Slabbed Out Sesh"}/>
         </div>
         <div class="p-5 mx-2 h-full">
-          <iframe loading="lazy" width="320" height="320" src="https://www.youtube.com/embed/mQn-NMacEQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <LiteYouTubeEmbed aspectHeight = {9}    aspectWidth = {16}    id={'mQn-NMacEQQ'}    title={"The Slabbed Out Sesh"}/>
         </div>
       </div>
     </section>
