@@ -9,7 +9,7 @@ export default function Hero() {
             <h3 class="p-2 justify-self-center lg:text-3xl text-xl font-bold text-white">Underground Minimal Bassline Focused Tech House</h3>
           </div>
           <div class="flex-row">
-              <SocialIcon url="spotify:artist:4laUZIDTrzWHmMQS1QGcIC" bgColor="#FFFFFF" fgColo="#000000" />
+              <SocialIcon url="spotify:artist:4laUZIDTrzWHmMQS1QGcIC" bgColor="#FFFFFF" fgColor="#000000" />
               <SocialIcon url="https://instagram.com/hrvst_music" bgColor='#FFFFFF' fgColor='#000000'/>
               <SocialIcon url="https://twitter.com/_HRVST_" bgColor='#FFFFFF' fgColor='#000000'/>
               <SocialIcon url="https://tiktok.com/@hrvst_music" bgColor='#FFFFFF' fgColor='#000000' />
