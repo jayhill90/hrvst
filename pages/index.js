@@ -1,11 +1,9 @@
 /* eslint-disable */
 import Head from 'next/head'
-import Image from 'next/image'
 import Navbar from '../components/navbar';
 import Hero from '../components/hero'
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
-import { SocialIcon } from 'react-social-icons';
 
 export default function Home() {
   return (
