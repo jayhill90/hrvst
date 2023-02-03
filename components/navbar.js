@@ -16,7 +16,7 @@ export default function Navbar() {
         </button>
       </div>
       <div className={`w-full items-center justify-between md:order-1 md:flex md:w-auto  ${ navBar? 'block': 'hidden' }`} id="navbar-sticky">
-        <ul class="flex mt-4 flex-col roundedlg border border-gray-100 p-4 dark:border-gray-700 bg-gray-800 md:mt-0 md:flex-row md:space-x-8 md:border-0 md:text-sm md:font-medium md:dark:bg-gray-900">
+        <ul class="flex mt-4 flex-col roundedlg border border-gray-100 p-4 dark:border-gray-700 md:mt-0 md:flex-row md:space-x-8 md:border-0 md:text-sm md:font-medium bg-gray-900">
           <li>
             <a href="/" class="block rounded py-2 pl-3 pr-4 text-white dark:text-white md:bg-transparent md:p-0 md:text-white" aria-current="page">Home</a>
           </li>
