@@ -44,11 +44,11 @@ export default function Press() {
     <section>
     <div class="bg-gray-900">
         <div class="flex flex-row justify-center">
-          <h2 class="py-4 text-4xl text-white mb-8">Media Coverage</h2>
+          <h2 class="py-4 text-5xl text-white mb-8 pt-12 font-mono">Media Coverage</h2>
         </div>
         <div class="grid gap-6 lg:grid-cols-3 lg:px-8 mx-4 lg:mx-4 sm:mx-2 bg-gray-900 pb-8">
           <div class= "max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-            <img class="rounded-t-lg" src="/seismic.jpg" alt="Mary Droppinz and Joswa at Seismic Dance Event 5.0" />
+            <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/seismic.jpg" alt="Mary Droppinz and Joswa at Seismic Dance Event 5.0" />
             <div class="p-5">
               <a href="https://datatransmission.co/blog/reviewed-seismic-dance-event-5-0/" target="_blank">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">HRVST Review's Seismic Dance Event</h5>
@@ -61,7 +61,7 @@ export default function Press() {
             </div>
           </div>
           <div class="max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-              <img class="rounded-t-lg" src="/different-dt.jpg" alt="HRVST - R U E'n / Fragmentation cover art" />
+              <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/different-dt.jpg" alt="HRVST - R U E'n / Fragmentation cover art" />
             <div class="p-5">
               <a href="https://datatransmission.co/debut-transmission/hrvst-launches-slabbed-out-digital-with-different-sleeping-people/" target="_blank">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">HRVST launches Slabbed Out Digital</h5>
@@ -74,7 +74,7 @@ export default function Press() {
             </div>
           </div>
           <div class="max-w-m rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-              <img class="rounded-t-lg" src="/lnm-dt.jpg" alt="Screenshot of a Data Transmission article press release for HRVST - Finger Wagging / Like A Robot" />
+              <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/lnm-dt.jpg" alt="Screenshot of a Data Transmission article press release for HRVST - Finger Wagging / Like A Robot" />
    
             <div class="p-5">
               <a href="https://datatransmission.co/debut-transmission/hrvst-announces-his-two-track-ep-via-late-night-munchies/">

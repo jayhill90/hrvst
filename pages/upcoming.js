@@ -4,7 +4,7 @@ import { useState } from 'react'
 import Navbar from '../components/navbar'
 import Hero from '../components/hero'
 
-export default function Press() {
+export default function Upcoming() {
     return (
     <>
     <Head>
@@ -25,7 +25,7 @@ export default function Press() {
         </div>
         <div class="grid gap-6 lg:grid-cols-3 px-20 bg-gray-900 pb-8">
           <div class= "rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-            <img class="rounded-t-lg" src="/hrvst-dt.png" alt="The Slabbed Out Sesh on Data Transmission Radio." />
+            <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/hrvst-dt.png" alt="The Slabbed Out Sesh on Data Transmission Radio." />
             <div class="p-5 justify-center text-center">
               <a href="https://datatransmission.co/popup-player/" target="_blank">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">The Slabbed Out Sesh</h5>
@@ -38,7 +38,7 @@ export default function Press() {
             </div>
           </div>
           <div class="max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-              <img class="rounded-t-lg" src="/hrvst-dt.png" alt="The Slabbed Out Sesh on Data Transmission Radio" />
+              <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/hrvst-dt.png" alt="The Slabbed Out Sesh on Data Transmission Radio" />
             <div class="p-5 justify-center text-center">
               <a href="https://datatransmission.co/ppup-player/" target="_blank">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">The Slabbed Out Sesh</h5>
@@ -51,7 +51,7 @@ export default function Press() {
             </div>
           </div>
           <div class="max-w-m rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-              <img class="rounded-t-lg" src="/hrvst-dt.png" alt="Screenshot of a Data Transmission article press release for HRVST - Finger Wagging / Like A Robot" />
+              <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/hrvst-dt.png" alt="Screenshot of a Data Transmission article press release for HRVST - Finger Wagging / Like A Robot" />
    
             <div class="p-5 justify-center text-center">
               <a href="https://datatransmission.co/popup-player/">

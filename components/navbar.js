@@ -4,7 +4,7 @@ import { useState } from 'react'
 export default function Navbar() {
     const [navBar, setNavbar ] = useState(false);
 
-    return ( <nav class="fixed top-0 left-0 z-20 w-screen border-b border-gray-400 bg-gray-900 px-2 py-2.5 dark:border-gray-600 bg-gray-900 sm:px-4">
+    return ( <nav class="fixed top-0 left-0 z-20 w-screen border-b border-gray-600 bg-zinc-900 px-2 py-2.5 sm:px-4">
     <div class="flex container mx-auto w-full flex-wrap items-center justify-between">
       <a href="https://hrvstmusic.com" class="flex items-center">
         <span class="self-center whitespace-nowrap text-xl font-semibold text-white">HRVST</span>
@@ -16,18 +16,18 @@ export default function Navbar() {
         </button>
       </div>
       <div className={`w-full items-center justify-between md:order-1 md:flex md:w-auto  ${ navBar? 'block': 'hidden' }`} id="navbar-sticky">
-        <ul class="flex mt-4 flex-col roundedlg border border-gray-100 p-4 dark:border-gray-700 md:mt-0 md:flex-row md:space-x-8 md:border-0 md:text-sm md:font-medium bg-gray-900">
+        <ul class="flex mt-4 flex-col roundedlg border border-gray-700 p-4 md:mt-0 md:flex-row md:space-x-8 md:border-0 md:text-sm md:font-medium bg-zinc-900">
           <li>
-            <a href="/" class="block rounded py-2 pl-3 pr-4 text-white dark:text-white md:bg-transparent md:p-0 md:text-white" aria-current="page">Home</a>
+            <a href="/" class="block rounded py-2 pl-3 pr-4 text-white hover:bg-gray-700 border-gray-700 md:p-0">Home</a>
           </li>
           <li>
-            <a href="/press" class="block rounded py-2 pl-3 pr-4 text-white hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:bg-transparent md:dark:hover:text-white">Press</a>
+            <a href="/press" class="block rounded py-2 pl-3 pr-4 text-white hover:bg-gray-700 border-gray-700 md:p-0">Press</a>
           </li>
           <li>
-            <a href="/upcoming" class="block rounded py-2 pl-3 pr-4 text-white hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:bg-transparent md:dark:hover:text-white">Upcoming</a>
+            <a href="/upcoming" class="block rounded py-2 pl-3 pr-4 text-white hover:bg-gray-700 border-gray-700 md:p-0">Upcoming</a>
           </li>
           <li>
-            <a href="/contact" class="block rounded py-2 pl-3 pr-4 text-white hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:p-0 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:bg-transparent md:dark:hover:text-white">Contact</a>
+            <a href="/contact" class="block rounded py-2 pl-3 pr-4 text-white hover:bg-gray-700 border-gray-700 md:p-0">Contact</a>
           </li>
         </ul>
       </div>
