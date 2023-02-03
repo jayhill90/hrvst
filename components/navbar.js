@@ -4,7 +4,7 @@ import { useState } from 'react'
 export default function Navbar() {
     const [navBar, setNavbar ] = useState(false);
 
-    return ( <nav class="fixed top-0 left-0 z-20 w-screen border-b border-gray-400 bg-gray-900 px-2 py-2.5 dark:border-gray-600 dark:bg-gray-900 sm:px-4">
+    return ( <nav class="fixed top-0 left-0 z-20 w-screen border-b border-gray-400 bg-gray-900 px-2 py-2.5 dark:border-gray-600 bg-gray-900 sm:px-4">
     <div class="flex container mx-auto w-full flex-wrap items-center justify-between">
       <a href="https://hrvstmusic.com" class="flex items-center">
         <span class="self-center whitespace-nowrap text-xl font-semibold text-white">HRVST</span>
@@ -16,7 +16,7 @@ export default function Navbar() {
         </button>
       </div>
       <div className={`w-full items-center justify-between md:order-1 md:flex md:w-auto  ${ navBar? 'block': 'hidden' }`} id="navbar-sticky">
-        <ul class="flex mt-4 flex-col roundedlg border border-gray-100 bg-gray-500 p-4 dark:border-gray-700 dark:bg-gray-800 md:mt-0 md:flex-row md:space-x-8 md:border-0 md:bg-white md:text-sm md:font-medium md:dark:bg-gray-900">
+        <ul class="flex mt-4 flex-col roundedlg border border-gray-100 p-4 dark:border-gray-700 bg-gray-800 md:mt-0 md:flex-row md:space-x-8 md:border-0 md:text-sm md:font-medium md:dark:bg-gray-900">
           <li>
             <a href="/" class="block rounded py-2 pl-3 pr-4 text-white dark:text-white md:bg-transparent md:p-0 md:text-white" aria-current="page">Home</a>
           </li>
