@@ -12,6 +12,7 @@ export default function Hero() {
               <SocialIcon url="spotify:artist:4laUZIDTrzWHmMQS1QGcIC" bgColor="#FFFFFF" fgColor="#000000" />
               <SocialIcon url="https://instagram.com/hrvst_music" bgColor='#FFFFFF' fgColor='#000000'/>
               <SocialIcon url="https://soundcloud.com/hrvstbeats" bgColor='#FFFFFF' fgColor='#000000' />
+              <SocialIcon url="https://youtube.com/channel/UCakdEI70CXs6N7LVPy586fA?sub_confirmation=1" bgColor="#FFFFFF" fgColor="#000000" />
               <SocialIcon url="https://twitter.com/_HRVST_" bgColor='#FFFFFF' fgColor='#000000'/>
               <SocialIcon url="https://tiktok.com/@hrvst_music" bgColor='#FFFFFF' fgColor='#000000' />
               <SocialIcon url="https://twitch.tv/hrvst_music" bgColor='#FFFFFF' fgColor='#000000'/>
