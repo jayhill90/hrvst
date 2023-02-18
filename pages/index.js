@@ -2,6 +2,7 @@
 import Head from 'next/head'
 import Navbar from '../components/navbar';
 import Hero from '../components/hero'
+import Release from '../components/release';
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
 
@@ -25,45 +26,24 @@ export default function Home() {
           <h2 class="py-6 text-5xl mt-8 font-mono">Latest Releases</h2>
         </div>
         <div class="grid gap-6 pt-4 lg:grid-cols-3 px-8 lg:mx-4 sm:mx-2">
-          <div class= "max-w-full rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 dark:bg-gray-800">
-            <a href="https://music.soundsofibiza.co.uk/gitup" target="_blank">
-            <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/releases/gitup.png" alt="HRVST - Git Up / Synchronic cover art" />
-            </a>
-            <div class="p-5">
-                <h5 class="mb-1 text-xl font-bold tracking-tight text-white">Git Up / Synchronic &#91;Late Night Munchies&#93;</h5>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">Almost a year since his debut, HRVST returns to Late Night Munchies with another double track release. This release from HRVST, sees him move towards a more gritty and grimey vibe for the dance floor.</p>
-              <a href="https://music.soundsofibiza.co.uk/gitup" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-300">
-                Pre-Order / Pre-Save
-                <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-              </a>
-            </div>
-          </div>
-          <div class="max-w-full rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 dark:bg-gray-800">
-          <a href="https://music.soundsofibiza.co.uk/ruean" target="_blank">
-              <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/releases/fragmentation.png" alt="HRVST - R U E'n / Fragmentation cover art" />
-            </a>
-            <div class="p-5">
-                <h5 class="mb-1 text-xl font-bold tracking-tight text-white">R U E'n / Fragmentation &#91;Take A Chance&#93;</h5>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">Released on San Francisco based Take A Chance Records, HRVST delivers a double track EP that push the boundaries of tech house with a tear out bassline on "Fragmentation", and a certified whomper on "R U E'n".</p>
-              <a href="https://music.soundsofibiza.co.uk/ruean" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-300">
-                Stream / Purchase
-                <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-              </a>
-            </div>
-          </div>
-          <div class="max-w-m rounded-lg border border-gray-200 bg-white shadow-md dark:border-gray-700 dark:bg-gray-800">
-          <a href="https://music.soundsofibiza.co.uk/courtcase" target="_blank">
-              <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/releases/courtcase.jpg" alt="HRVST - Court Case cover art." />
-            </a>
-            <div class="p-5">
-                <h5 class="mb-1 text-xl font-bold tracking-tight text-white">Court Case  &#91;Slabbed Out Digital&#93;</h5>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">The second release on HRVST's imprint Slabbed Out Digital, Court Case. harks back to his days growing Cannabis in Northern California. This tune has atmospherics and a solid groove that has a vibe thats perfect for harvest season.</p>
-              <a href="https://music.soundsofibiza.co.uk/courtcase" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-3000">
-                Stream / Purchase
-                <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-              </a>
-            </div>
-          </div>
+          <Release title="Unlearn:Miami - Pop It"
+           label="Unlearn Records" 
+           writeup="We are proud to unleash our first ever compilation for Miami this March, featuring five exclusive tech house cuts from a crop of new talent alongside the established sound of label boss Doc Brown. HRVST's 'Pop It' employs sinister vocals over a devastating rolling bassline" 
+           url="https://music.soundsofibiza.co.uk/popit"
+           coverpath="/releases/unlearn-miami.png" 
+           released={false} />
+          <Release title="Git Up / Synchronic"
+            label="Late Night Munchies" 
+            writeup="Almost a year since his debut, HRVST returns to Late Night Munchies with another double track release. This release from HRVST, sees him move towards a more gritty and grimey vibe for the dance floor." 
+            url="https://music.soundsofibiza.co.uk/gitup" 
+            coverpath="/releases/gitup.png" 
+            released={true} />
+          <Release title="R U E'n / Fragmentation" 
+            label="Take A Chance Records" 
+            writeup="Released on San Francisco based Take A Chance Records, HRVST delivers a double track EP that push the boundaries of tech house with a tear out bassline on 'Fragmentation', and a certified whomper on 'R U E'n'" 
+            url="https://music.soundsofibiza.co.uk/ruean"
+            coverpath="/releases/fragmentation.png"
+            released={true} />
           </div>
       </div>
     </section>
