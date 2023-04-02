@@ -24,14 +24,14 @@ export default function Home() {
       <div class="">
         <div class="flex flex-row justify-center">
           <h2 class="py-6 text-5xl mt-8 font-mono">Latest Releases</h2>
-        </div>
+        </div> 
         <div class="grid gap-6 pt-4 lg:grid-cols-3 px-8 lg:mx-4 sm:mx-2">
           <Release title="Unlearn:Miami - Pop It"
            label="Unlearn Records" 
            writeup="We are proud to unleash our first ever compilation for Miami this March, featuring five exclusive tech house cuts from a crop of new talent alongside the established sound of label boss Doc Brown. HRVST's 'Pop It' employs sinister vocals over a devastating rolling bassline" 
            url="https://music.soundsofibiza.co.uk/popit"
            coverpath="/releases/unlearn-miami.png" 
-           released={false} />
+           released={true} />
           <Release title="Git Up / Synchronic"
             label="Late Night Munchies" 
             writeup="Almost a year since his debut, HRVST returns to Late Night Munchies with another double track release. This release from HRVST, sees him move towards a more gritty and grimey vibe for the dance floor." 
