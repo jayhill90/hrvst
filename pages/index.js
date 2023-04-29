@@ -26,6 +26,12 @@ export default function Home() {
           <h2 class="py-6 text-5xl mt-8 font-mono">Latest Releases</h2>
         </div> 
         <div class="grid gap-6 pt-4 lg:grid-cols-3 px-8 lg:mx-4 sm:mx-2">
+        <Release title="Drippin Sweat EP" 
+            label="Slabbed Out Digital" 
+            writeup="HRVST returns to Slabbed Out Digital for the first release from the imprint of 2023, delivering three certified 2 step rollers on the Drippin Sweat EP"
+            url="https://music.soundsofibiza.co.uk/drippinsweat"
+            coverpath="/releases/drippinsweat.png"
+            released={false} />
           <Release title="Unlearn:Miami - Pop It"
            label="Unlearn Records" 
            writeup="We are proud to unleash our first ever compilation for Miami this March, featuring five exclusive tech house cuts from a crop of new talent alongside the established sound of label boss Doc Brown. HRVST's 'Pop It' employs sinister vocals over a devastating rolling bassline" 
@@ -43,6 +49,18 @@ export default function Home() {
             writeup="Released on San Francisco based Take A Chance Records, HRVST delivers a double track EP that push the boundaries of tech house with a tear out bassline on 'Fragmentation', and a certified whomper on 'R U E'n'" 
             url="https://music.soundsofibiza.co.uk/ruean"
             coverpath="/releases/fragmentation.png"
+            released={true} />
+          <Release title="Court Case" 
+            label="Slabbed Out Digital" 
+            writeup="Released on HRVST's label Salbbed Out Digital, this vocal samples an iconic scene from one of Johnny Depp's best roles as George Jung in a court house after shipping a ton of cannabis into Chicago." 
+            url="https://music.soundsofibiza.co.uk/courtcase"
+            coverpath="https://res.cloudinary.com/dszlb3eo2/image/upload/c_scale,w_500/v1682459534/ReleaseArtwork/CourtCase.png.jpg"
+            released={true} />
+          <Release title="Different / Sleeping People" 
+            label="Slabbed Out Digital" 
+            writeup="The debut release for Slabbed Out Digital saw a Top 100 Tech House chart position on Beatport and features two groovy cuts from HRVST.  HRVST delivers a clinical in why Slabbed Out Digital is the home for minimal glitchy house music with atmosphere, emotion, and banging bass weight laden grooves. " 
+            url="https://music.soundsofibiza.co.uk/differentsleepingpeople"
+            coverpath="https://res.cloudinary.com/dszlb3eo2/image/upload/c_scale,w_500/v1682459423/ReleaseArtwork/DifferentSleepingPeople.jpg.jpg"
             released={true} />
           </div>
       </div>

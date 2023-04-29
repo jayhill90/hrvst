@@ -46,7 +46,20 @@ export default function Press() {
         <div class="flex flex-row justify-center">
           <h2 class="py-4 text-5xl text-white mb-8 pt-12 font-mono">Media Coverage</h2>
         </div>
-        <div class="grid gap-6 lg:grid-cols-3 lg:px-8 mx-4 lg:mx-4 sm:mx-2 bg-gray-900 pb-8">
+        <div class="grid gap-6 lg:grid-cols-4 lg:px-8 mx-4 lg:mx-4 sm:mx-2 bg-gray-900 pb-8">
+        <div class= "max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
+            <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="https://res.cloudinary.com/dszlb3eo2/image/upload/v1682798035/hmwl.png" alt="HRVST interview" />
+            <div class="p-5">
+              <a href="https://www.housemusicwithlove.com/2023/music-has-been-one-of-the-things-that-has-kept-people-from-going-over-the-edge-hrvst-interview/" target="_blank">
+                <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Interview w/ HouseMusicWithLove.com</h5>
+              </a>
+              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">HRVST was interviewed by HouseMusicWithLove.com and discusses mental health, inspirations and analog video synthesizers.</p>
+              <a href="https://www.housemusicwithlove.com/2023/music-has-been-one-of-the-things-that-has-kept-people-from-going-over-the-edge-hrvst-interview/" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-300">
+                Check It Out
+                <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+              </a>
+            </div>
+          </div>
           <div class= "max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
             <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/seismic.jpg" alt="Mary Droppinz and Joswa at Seismic Dance Event 5.0" />
             <div class="p-5">
