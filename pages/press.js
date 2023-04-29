@@ -20,7 +20,7 @@ export default function Press() {
     </header>
     <section class="mx-auto mb-18 pb-20 bg-gray-400 w-full">
         <div class="flex flex-wrap justify-center">
-            <h2 class="py-6 my-8 text-5xl font-mono">About HRVST</h2>
+            <h2 class="py-6 my-8 text-5xl font-sans">About HRVST</h2>
         </div> 
         <div class="rounded-lg border border-gray-200 bg-gray-100 shadow-md lg:mx-40 sm:mx-4">
         <div class="flex lg:flex-row flex-wrap mx-auto justify-center text-center lg:px-32">
@@ -44,7 +44,7 @@ export default function Press() {
     <section>
     <div class="bg-gray-900">
         <div class="flex flex-row justify-center">
-          <h2 class="py-4 text-5xl text-white mb-8 pt-12 font-mono">Media Coverage</h2>
+          <h2 class="py-4 text-5xl text-white mb-8 pt-12 font-sans">Media Coverage</h2>
         </div>
         <div class="grid gap-6 lg:grid-cols-4 lg:px-8 mx-4 lg:mx-4 sm:mx-2 bg-gray-900 pb-8">
         <div class= "max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">

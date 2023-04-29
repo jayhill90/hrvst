@@ -19,7 +19,7 @@ export default function Press() {
     </header>
     <section class="mx-auto mb-18 pb-20 bg-gray-400 w-full">
         <div class="flex flex-wrap justify-center">
-            <h2 class="py-4 mt-4 mb-8 font-mono text-5xl">Contact</h2>
+            <h2 class="py-4 mt-4 mb-8 font-sans text-5xl">Contact</h2>
         </div> 
         <div class="rounded-lg border border-gray-200 bg-gray-100 shadow-md lg:mx-40 sm:mx-4">
         <div class="flex lg:flex-row flex-wrap mx-auto justify-center text-center lg:px-32">

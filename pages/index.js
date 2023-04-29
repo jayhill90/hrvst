@@ -23,9 +23,9 @@ export default function Home() {
     <section class="mx-auto mb-18 pb-20 bg-gray-400 w-full">
       <div class="">
         <div class="flex flex-row justify-center">
-          <h2 class="py-6 text-5xl mt-8 font-mono">Latest Releases</h2>
+          <h2 class="py-6 text-5xl mt-8 font-sans">Latest Releases</h2>
         </div> 
-        <div class="grid gap-6 pt-4 lg:grid-cols-3 px-8 lg:mx-4 sm:mx-2">
+        <div class="grid gap-6 pt-4 md:grid-cols-2 lg:grid-cols-3 px-8 lg:mx-4 sm:mx-2">
         <Release title="Drippin Sweat EP" 
             label="Slabbed Out Digital" 
             writeup="HRVST returns to Slabbed Out Digital for the first release from the imprint of 2023, delivering three certified 2 step rollers on the Drippin Sweat EP"
@@ -67,7 +67,7 @@ export default function Home() {
     </section>
     <section class="mx-auto mb-32 bg-gray-800">
       <div class="flex flex-row justify-center">
-        <h3 class="py-6 mt-8 text-5xl text-white font-mono">Latest Mixes</h3>
+        <h3 class="py-6 mt-8 text-5xl text-white font-sans">Latest Mixes</h3>
       </div>
       <div class="grid gap-6 lg:grid-cols-3 md:grid-cols-2 mx-auto w-5/6">
         <div class="p-5 mx-2 h-full">
