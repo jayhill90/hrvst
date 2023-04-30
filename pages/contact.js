@@ -27,7 +27,11 @@ export default function Press() {
             <p class="basis-full text-md mx-8 mt-4">Bookings & General Inquiries: <a href="mailto:jay@slabbedout.live">jay@slabbedout.live</a>.</p>
             <p class="text-md mx-8 mt-4">Licensing & Remixes: <a href="mailto:hrvst@soundsofibiza.co.uk">hrvst@soundsofibiza.co.uk</a>.</p>
         </div> 
-        <p class="text-xxl mx-8 mt-4 text-center mb-2 font-sans font-bold"><a href="https://hrvst.slabbedout.live">SOCIALS</a>.</p>
+        <p class="text-xxl mx-auto mt-4 text-center mb-2 font-sans font-bold w-40">
+          <a class="group transition duration-300"href="https://hrvst.slabbedout.live">SOCIALS
+          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-gray-800"></span>
+
+          </a>.</p>
         <h3 class="text-center font-black">Promos & Demos</h3>
         <p class="text-md mx-8 mt-4 text-center mb-2 font-sans">Submit tracks directly to HRVST via <a href="https://trackstack.app" target="_blank">Trackstack</a> below.</p>
         <div class="grid grid-cols-1">
