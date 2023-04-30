@@ -24,11 +24,26 @@ export default function Press() {
         <div class="rounded-lg border border-gray-200 bg-gray-100 shadow-md lg:mx-40 sm:mx-4">
         <div class="flex lg:flex-row flex-wrap mx-auto justify-center text-center lg:px-32">
             <img class="basis-1/2 rounded-t-lg sm:w-full h-3/6" src="BW_Headshot.jpg" alt="HRVST headshot in black and white." />
-            <p class="basis-full text-lg mx-8 mt-4">Bookings & General Inquiries: <a href="mailto:jay@slabbedout.live">jay@slabbedout.live</a>.</p>
-            <p class="text-lg mx-8 mt-4">Licensing & Remixes: <a href="mailto:hrvst@soundsofibiza.co.uk">hrvst@soundsofibiza.co.uk</a>.</p>
+            <p class="basis-full text-md mx-8 mt-4">Bookings & General Inquiries: <a href="mailto:jay@slabbedout.live">jay@slabbedout.live</a>.</p>
+            <p class="text-md mx-8 mt-4">Licensing & Remixes: <a href="mailto:hrvst@soundsofibiza.co.uk">hrvst@soundsofibiza.co.uk</a>.</p>
         </div> 
-        <p class="text-lg mx-8 mt-4 text-center mb-2"><a href="https://hrvst.slabbedout.live">Socials</a>.</p>
-
+        <p class="text-xxl mx-8 mt-4 text-center mb-2 font-sans font-bold"><a href="https://hrvst.slabbedout.live">SOCIALS</a>.</p>
+        <h3 class="text-center font-black">Promos & Demos</h3>
+        <p class="text-md mx-8 mt-4 text-center mb-2 font-sans">Submit tracks directly to HRVST via <a href="https://trackstack.app" target="_blank">Trackstack</a> below.</p>
+        <div class="grid grid-cols-1">
+        <iframe
+              title="Send HRVST / Slabbed Out Digital tracks"
+              src="https://tstack.app/hrvst/embed/send?isDarkMode=false"
+              onload="() => window.frames[0].document.documentElement.style.backgroundColor=transparent"
+              style={{ height: "50vh"}}
+              className="px-24"
+              width={"100%"}
+              height={"100%"}
+              scrolling="yes"
+              frameBorder="0"
+              allowtransparency="true"
+            ></iframe>
+        </div>
         </div>
     </section>
     <footer class="bg-gray-800 text-center lg:text-left">
