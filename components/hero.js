@@ -6,7 +6,7 @@ export default function Hero() {
         <div class="flex h-full flex-col items-center justify-center">
           <img class="mt-6 mb-6 pt-12 lg:px-14" src="/HRVST_WHITE_LOGO.png" alt="HRVST is a minimal bassline focused music producer." />
           <div class="flex flex-row items-center justify-between bg-black opacity-90">
-            <h3 class="p-2 justify-self-center lg:text-3xl text-xl font-bold text-white">Underground Minimal Bassline Focused Tech House</h3>
+            <h3 class="p-2 justify-self-center lg:text-3xl text-xl font-bold text-white">Underground Minimal Bassline Focused House &amp; Grage</h3>
           </div>
           <div class="flex-row">
               <SocialIcon url="spotify:artist:4laUZIDTrzWHmMQS1QGcIC" bgColor="#FFFFFF" fgColor="#000000" />
