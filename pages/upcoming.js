@@ -27,7 +27,7 @@ export default function Upcoming() {
           <div class= "rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
             <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="https://res.cloudinary.com/dszlb3eo2/image/upload/c_scale,w_500/v1682806070/onceuponatime_vsf3l2.png" alt="Once Upon A Time in Austin Tickets" />
             <div class="p-5 justify-center text-center">
-              <a href="https://datatransmission.co/popup-player/" target="_blank">
+              <a href="https://www.eventbrite.com/e/once-upon-a-time-in-austin-tickets-610808904877/" target="_blank">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Once Upon A Time In Austin</h5>
               </a>
               <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">May 27th. J Lorraine Ghost Ranch, Austin TX.</p>
