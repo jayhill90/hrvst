@@ -7,14 +7,14 @@ const labels = trackstack.data.searchInboxes.map( label => {
         slug
     );
 });
-console.log ( labels );
+
 export default function Trackstack() {
     return (
         <>
             <div>
             {labels.map( label => (
                 <div key={label} className="grid-flow-column grid">
-                    <Link key={label} className="text-black" href={`https://trackstack.app/inbox/${label}`}>{label}</Link>      
+                    <Link key={label} className="text-black" href={`https://tstack.app/${label}`}>{label}</Link>      
                     </div>
             ))}
         </div>
