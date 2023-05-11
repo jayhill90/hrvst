@@ -2,9 +2,10 @@ import trackstack from '../public/trackstacklabels.json';
 import Link from 'next/link';
 
 const labels = trackstack.data.searchInboxes.map( label => {
-    const slug = label.slug
-    return (
-        slug
+    return ({
+        slug: label.slug,
+        name: label.name
+    }
     );
 });
 
@@ -14,7 +15,7 @@ export default function Trackstack() {
             <div>
             {labels.map( label => (
                 <div key={label} className="grid-flow-column grid">
-                    <Link key={label} className="text-black" href={`https://tstack.app/${label}`}>{label}</Link>      
+                    <Link key={label} className="text-black" href={`https://tstack.app/${label.slug}`}>{label.name}</Link>      
                     </div>
             ))}
         </div>
