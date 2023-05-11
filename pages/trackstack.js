@@ -13,7 +13,7 @@ export default function Trackstack() {
         <>
             <div>
             {labels.map( label => (
-                <div className="grid-flow-column grid">
+                <div key={label} className="grid-flow-column grid">
                     <Link key={label} className="text-black" href={`https://trackstack.app/inbox/${label}`}>{label}</Link>      
                     </div>
             ))}
