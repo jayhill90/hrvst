@@ -31,7 +31,7 @@ export default function Home() {
             writeup="HRVST returns to Slabbed Out Digital for the first release from the imprint of 2023, delivering three certified 2 step rollers on the Drippin Sweat EP"
             url="https://music.soundsofibiza.co.uk/drippinsweat"
             coverpath="/releases/drippinsweat.png"
-            released={false} />
+            released={true} />
           <Release title="Unlearn:Miami - Pop It"
            label="Unlearn Records" 
            writeup="We are proud to unleash our first ever compilation for Miami this March, featuring five exclusive tech house cuts from a crop of new talent alongside the established sound of label boss Doc Brown. HRVST's 'Pop It' employs sinister vocals over a devastating rolling bassline" 

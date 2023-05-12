@@ -48,6 +48,20 @@ export default function Press() {
         </div>
         <div class="grid gap-6 lg:grid-cols-4 lg:px-8 mx-4 lg:mx-4 sm:mx-2 bg-gray-900 pb-8">
         <div class= "max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
+            <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="https://res.cloudinary.com/dszlb3eo2/image/upload/v1683888772/2_akyuld.png" alt="HRVST interview" />
+            <div class="p-5">
+              <a href="https://edmidentity.com/2023/05/06/hrvst-drippin-sweat-ep/" target="_blank">
+                <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">EDMIdentity.com Review</h5>
+              </a>
+              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">HRVST Guides Vibes with Three-Track ‘Drippin’ Sweat’ EP
+</p>
+              <a href="https://edmidentity.com/2023/05/06/hrvst-drippin-sweat-ep/" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-300">
+                Check It Out
+                <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+              </a>
+            </div>
+          </div>
+        <div class= "max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
             <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="https://res.cloudinary.com/dszlb3eo2/image/upload/v1682798035/hmwl.png" alt="HRVST interview" />
             <div class="p-5">
               <a href="https://www.housemusicwithlove.com/2023/music-has-been-one-of-the-things-that-has-kept-people-from-going-over-the-edge-hrvst-interview/" target="_blank">
