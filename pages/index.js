@@ -26,12 +26,18 @@ export default function Home() {
           <h2 class="py-6 text-5xl mt-8 font-sans">Latest Releases</h2>
         </div> 
         <div class="grid gap-6 pt-4 md:grid-cols-2 lg:grid-cols-3 px-8 lg:mx-4 sm:mx-2">
+        <Release title="Bumpin Summer EP w/ Jahir and ZZISCO"
+            label="Take A Chance Records"
+            writeup="Three bumping wonky Summer vibes from Take A Chance Records."
+            url="https://triplepoint.ffm.to/bumpin-summer-ep"
+            coverpath="/releases/bumpinsummer.jpeg"
+            released={false} />
         <Release title="Bassbin Lifestyle EP" 
             label="Slabbed Out Digital" 
             writeup="Slabbed Out Digital celebrates its 1st birthday with a new 4 track EP from HRVST that Tough Love described as 'dirty chuggers'"
             url="https://music.soundsofibiza.co.uk/bassbinlifestyleep"
             coverpath="/releases/coverart-smallfile.png"
-            released={false} />
+            released={true} />
         <Release title="Drippin Sweat EP" 
             label="Slabbed Out Digital" 
             writeup="HRVST returns to Slabbed Out Digital for the first release from the imprint of 2023, delivering three certified 2 step rollers on the Drippin Sweat EP"
