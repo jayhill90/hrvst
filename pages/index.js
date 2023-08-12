@@ -81,7 +81,10 @@ export default function Home() {
       <div class="flex flex-row justify-center">
         <h3 class="py-6 mt-8 text-5xl text-white font-sans">Latest Mixes</h3>
       </div>
-      <div class="grid gap-6 lg:grid-cols-3 md:grid-cols-2 mx-auto w-5/6">
+      <div class="grid gap-6 lg:grid-cols-2 md:grid-cols-2 mx-auto w-5/6">
+        <div class="p-5 mx-2 h-full">
+          <LiteYouTubeEmbed aspectHeight = {9} aspectWidth = {16} id={'PEEA9kYwRH4'} title={"HRVST Live in Dallas Texas"} />
+        </div>
         <div class="p-5 mx-2 h-full">
           <LiteYouTubeEmbed aspectHeight = {9}    aspectWidth = {16}    id={'DDy28bM1KIg'}    title={"The Slabbed Out Sesh"}/>
         </div>
