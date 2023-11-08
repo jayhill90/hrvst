@@ -31,7 +31,7 @@ export default function Upcoming() {
               <a href="https://datatransmission.co/popup-player/">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">The Slabbed Out Sesh</h5>
               </a>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">10pm GMT / 5pm EST - September 9th 2023</p>
+              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">10pm GMT / 5pm EST - December 9th 2023</p>
               <a href="https://datatransmission.co/popup-player/" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-3000">
                 Popup Player
                 <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
@@ -52,26 +52,14 @@ export default function Upcoming() {
               </a>
             </div>
           </div>
-          <div class= "rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-            <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="https://res.cloudinary.com/dszlb3eo2/image/upload/c_scale,w_500/v1682806070/onceuponatime_vsf3l2.png" alt="Once Upon A Time in Austin Tickets" />
-            <div class="p-5 justify-center text-center">
-              <a href="https://www.eventbrite.com/e/once-upon-a-time-in-austin-tickets-610808904877/" target="_blank">
-                <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Once Upon A Time In Austin</h5>
-              </a>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">May 27th. J Lorraine Ghost Ranch, Austin TX.</p>
-              <a href="https://www.eventbrite.com/e/once-upon-a-time-in-austin-tickets-610808904877/" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-300">
-                Buy Tickets
-                <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-              </a>
-            </div>
-          </div>
+
           <div class="max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
               <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/hrvst-dt.png" alt="The Slabbed Out Sesh on Data Transmission Radio" />
             <div class="p-5 justify-center text-center">
               <a href="https://datatransmission.co/ppup-player/" target="_blank">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">The Slabbed Out Sesh</h5>
               </a>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">10pm GMT / 5pm EST - May 6th 2023</p>
+              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">10pm GMT / 5pm EST - January 6th 2024</p>
               <a href="https://datatransmission.co/popup-player/" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-300">
                 Popup Player
                 <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
@@ -85,7 +73,7 @@ export default function Upcoming() {
               <a href="https://datatransmission.co/popup-player/">
                 <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">The Slabbed Out Sesh</h5>
               </a>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">10pm GMT / 5pm EST - June 10th 2023</p>
+              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">10pm GMT / 5pm EST - February 10th 2024</p>
               <a href="https://datatransmission.co/popup-player/" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-3000">
                 Popup Player
                 <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>

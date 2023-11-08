@@ -2,9 +2,20 @@
 import Head from 'next/head'
 import Navbar from '../components/navbar';
 import Hero from '../components/hero';
+import getStats from '../components/getStats';
+const spotifyID = '4laUZIDTrzWHmMQS1QGcIC';
 
-export default function Press() {
 
+export default async function Press() {
+    const statData = getStats();
+
+    const stats = await statData;
+
+    const streams = (
+      <div>
+        
+      </div>
+    )
     return (
     <>
     <Head>
@@ -115,6 +126,7 @@ export default function Press() {
             </div>
           </div>
           </div>
+    
       </div>
     </section>
     <footer class="bg-gray-800 text-center lg:text-left">
