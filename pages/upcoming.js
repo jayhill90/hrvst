@@ -38,20 +38,6 @@ export default function Upcoming() {
               </a>
             </div>
           </div>
-        <div class="max-w-m rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
-              <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/hrvst-dt.png" alt="Screenshot of a Data Transmission article press release for HRVST - Finger Wagging / Like A Robot" />
-   
-            <div class="p-5 justify-center text-center">
-              <a href="https://datatransmission.co/popup-player/">
-                <h5 class="mb-1 text-xl font-bold tracking-tight text-gray-900 dark:text-white">The Slabbed Out Sesh</h5>
-              </a>
-              <p class="mb-3 pb-8 font-normal text-gray-700 dark:text-gray-400">10pm GMT / 5pm EST - August 5th 2023</p>
-              <a href="https://datatransmission.co/popup-player/" target="_blank" class="inline-flex items-center rounded-lg bg-gray-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-black focus:outline-none focus:ring-4 focus:ring-blue-3000">
-                Popup Player
-                <svg aria-hidden="true" class="ml-2 -mr-1 h-4 w-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-              </a>
-            </div>
-          </div>
 
           <div class="max-w-full rounded-lg border border-gray-200 shadow-md dark:border-gray-700 bg-gray-800">
               <img class="rounded-t-lg grayscale hover:grayscale-0 transition-all duration-500" src="/hrvst-dt.png" alt="The Slabbed Out Sesh on Data Transmission Radio" />
