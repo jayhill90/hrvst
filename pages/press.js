@@ -2,20 +2,9 @@
 import Head from 'next/head'
 import Navbar from '../components/navbar';
 import Hero from '../components/hero';
-import getStats from '../components/getStats';
-const spotifyID = '4laUZIDTrzWHmMQS1QGcIC';
 
 
 export default async function Press() {
-    const statData = getStats();
-
-    const stats = await statData;
-
-    const streams = (
-      <div>
-        
-      </div>
-    )
     return (
     <>
     <Head>
