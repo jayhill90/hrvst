@@ -26,12 +26,18 @@ export default function Home() {
           <h2 class="py-6 text-5xl mt-8 font-sans">Latest Releases</h2>
         </div> 
         <div class="grid gap-6 pt-4 md:grid-cols-2 lg:grid-cols-3 px-8 lg:mx-4 sm:mx-2">
+        <Release title="Pulse Rate"
+            label="Unlearn:Records"
+            writeup="Part of the Unlearn:Miami 2024 compilation"
+            url="https://www.beatport.com/track/pulse-rate/18769046"
+            coverpath="/releases/unlearn.webp"
+            released={false} />
         <Release title="Bumpin Summer EP w/ Jahir and ZZISCO"
             label="Take A Chance Records"
             writeup="Three bumping wonky Summer vibes from Take A Chance Records."
             url="https://triplepoint.ffm.to/bumpin-summer-ep"
             coverpath="/releases/bumpinsummer.jpeg"
-            released={false} />
+            released={true} />
         <Release title="Bassbin Lifestyle EP" 
             label="Slabbed Out Digital" 
             writeup="Slabbed Out Digital celebrates its 1st birthday with a new 4 track EP from HRVST that Tough Love described as 'dirty chuggers'"
