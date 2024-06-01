@@ -85,6 +85,9 @@ export default function Home() {
     </section>
     <section class="mx-auto mb-32 bg-gray-800">
       <div class="mx-auto">
+      <div class="flex flex-row justify-center">
+        <h3 class="py-6 mt-8 text-5xl text-white font-sans">Send Promos to HRVST</h3>
+      </div>
       <iframe
               title="Send Promos to HRVST"
               src="https://tstack.app/hrvst/embed/send?isDarkMode=true"
