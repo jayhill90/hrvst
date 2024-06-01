@@ -88,7 +88,6 @@ export default function Home() {
               title="Send Promos to HRVST"
               src="https://tstack.app/hrvst/embed/send?isDarkMode=true"
               onload="() => window.frames[0].document.documentElement.style.backgroundColor=#141414"
-              style="width: 100vw; height: 100vh"
               width="100%"
               height="100%"
               scrolling="yes"
