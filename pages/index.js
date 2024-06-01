@@ -84,7 +84,8 @@ export default function Home() {
       </div>
     </section>
     <section class="mx-auto mb-32 bg-gray-800">
-    <iframe
+      <div class="mx-auto">
+      <iframe
               title="Send Promos to HRVST"
               src="https://tstack.app/hrvst/embed/send?isDarkMode=true"
               onload="() => window.frames[0].document.documentElement.style.backgroundColor=#141414"
@@ -94,6 +95,7 @@ export default function Home() {
               frameBorder="0"
               allowtransparency="true"
       ></iframe>
+      </div>
     </section>
     <section class="mx-auto mb-32 bg-gray-800">
       <div class="flex flex-row justify-center">
