@@ -94,6 +94,7 @@ export default function Home() {
               onload="() => window.frames[0].document.documentElement.style.backgroundColor=#141414"
               width="100%"
               height="100%"
+              style={{width: 100 + 'vh', height: 100 + 'vh'}}
               scrolling="yes"
               frameBorder="0"
               allowtransparency="true"
