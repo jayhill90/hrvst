@@ -88,17 +88,18 @@ export default function Home() {
       <div class="flex flex-row justify-center">
         <h3 class="py-6 mt-8 text-5xl text-white font-sans">Send Promos to HRVST</h3>
       </div>
+      <div class="justify-center p-8">
       <iframe
               title="Send Promos to HRVST"
               src="https://tstack.app/hrvst/embed/send?isDarkMode=true"
               onload="() => window.frames[0].document.documentElement.style.backgroundColor=#141414"
               width="100%"
               height="100%"
-              style={{width: 100 + 'vh', height: 100 + 'vh'}}
+              style={{width: 100 + 'vw', height: 100 + 'vh'}}
               scrolling="yes"
               frameBorder="0"
               allowtransparency="true"
-      ></iframe>
+      ></iframe></div>
       </div>
     </section>
     <section class="mx-auto mb-32 bg-gray-800">
