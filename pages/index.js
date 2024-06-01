@@ -31,7 +31,7 @@ export default function Home() {
             writeup="Part of the Unlearn:Miami 2024 compilation"
             url="https://www.beatport.com/track/pulse-rate/18769046"
             coverpath="/releases/unlearn.webp"
-            released={false} />
+            released={true} />
         <Release title="Bumpin Summer EP w/ Jahir and ZZISCO"
             label="Take A Chance Records"
             writeup="Three bumping wonky Summer vibes from Take A Chance Records."
