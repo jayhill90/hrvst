@@ -1134,6 +1134,2210 @@
                 "slug": "ontouragemusic",
                 "type": "LABEL",
                 "averageReviewTime": 1
+            },            {
+                "id": "ckrtku0d800513oxy8y5lkwtx",
+                "imageKey": "images/_ggpah2oih2-jaxih4ia5.png",
+                "name": "Jamie Jones",
+                "type": "PERSONAL",
+                "averageReviewTime": 2,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "jamiejonesmusic",
+                "beatportLabelId": null,
+                "country": "GB",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clyg4tt1g0005mi0p82c9kk6g",
+                "imageKey": "images/0evqxu53rbxovs4kq5a57.png",
+                "name": "Loco Dice",
+                "type": "PERSONAL",
+                "averageReviewTime": 52,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "locodice",
+                "beatportLabelId": null,
+                "country": "DE",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wdv2000108l87q6y03wx",
+                        "label": "Bass / Club",
+                        "value": "BASS_CLUB"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clrl0xgk5000c08l80yy9e2nl",
+                        "label": "Trap / Wave",
+                        "value": "TRAP_WAVE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clek7kve200430pmhnvimq2om",
+                "imageKey": "images/clek7kve200430pmhnvimq2om.jpg",
+                "name": "Catch & Release",
+                "type": "LABEL",
+                "averageReviewTime": 0,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "catchandreleasemusic",
+                "beatportLabelId": null,
+                "country": "AU",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clemwlbhw00500kl6arm7nfok",
+                "imageKey": "images/sjwkcappy3xokqg7rqgj9.png",
+                "name": "FLORENTIA",
+                "type": "PERSONAL",
+                "averageReviewTime": 6,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "GB",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clralh8iq002fkz0j3hl40uox",
+                "imageKey": "images/0htcsilyv_kja_zcotwon.png",
+                "name": "CIRCUS Music",
+                "type": "LABEL",
+                "averageReviewTime": 6,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "circusmusic",
+                "beatportLabelId": null,
+                "country": null,
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000b3b6kjapvos23",
+                        "label": "Electronica",
+                        "value": "ELECTRONICA"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "cm1qbe5c40000uh94m0xypoqa",
+                "imageKey": "images/7ub1zem8iftybxnnb7kl6.png",
+                "name": "Tunes For Daddy",
+                "type": "PERSONAL",
+                "averageReviewTime": 12,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "DE",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "clrge5g24000408l65x8jhyuh",
+                        "label": "Trance (Main Floor)",
+                        "value": "TRANCE_MAIN_FLOOR"
+                    },
+                    {
+                        "id": "clrl0wu3g000608l88fap59ec",
+                        "label": "Hard Dance / Hardcore",
+                        "value": "HARD_DANCE_HARDCORE"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clrl0xe0z000b08l8aikk5ega",
+                        "label": "Trance (Raw / Deep / Hypnotic)",
+                        "value": "TRANCE_RAW_DEEP_HYNOTIC"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clz22q1fy000fjz0n43dg7kih",
+                "imageKey": "images/8x7f2xfimdmp0unbx74nx.png",
+                "name": "Almanac",
+                "type": "PERSONAL",
+                "averageReviewTime": 68,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "duoalmanac",
+                "beatportLabelId": null,
+                "country": "BR",
+                "description": "<p>Esse é o <strong>canal oficial</strong> para <strong>envio de promos</strong> para o duo Almanac.</p><p>______________________________________________________________________________</p><p>This is the <strong>official page</strong> for <strong>sending promos</strong> for the duo Almanac.</p><p></p>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00093b6ketc94y20",
+                        "label": "Funky House",
+                        "value": "FUNKY_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000e3b6kostxmue4",
+                        "label": "Drum & Bass",
+                        "value": "DRUM_AND_BASS"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clrl0x644000808l83ypch4gz",
+                        "label": "Organic House / Downtempo",
+                        "value": "ORGANISE_HOUSE_DOWNTEMPO"
+                    },
+                    {
+                        "id": "clrnotevv000008l65d24gxdq",
+                        "label": "Amapiano",
+                        "value": "AMAPIANO"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clralhzmp000ukv0llta48fk3",
+                "imageKey": "images/scdke1_zxz1oxetxjvsyd.png",
+                "name": "CIRCUS Recordings",
+                "type": "LABEL",
+                "averageReviewTime": 6,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "circusrecordings",
+                "beatportLabelId": null,
+                "country": null,
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000b3b6kjapvos23",
+                        "label": "Electronica",
+                        "value": "ELECTRONICA"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "ckwnp5tpb01250vmjh3ca014p",
+                "imageKey": "images/q9js9srgf8eqnvmgsasl8.png",
+                "name": "Joseph Edmund",
+                "type": "PERSONAL",
+                "averageReviewTime": 95,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "josephedmund_",
+                "beatportLabelId": null,
+                "country": "GB",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00093b6ketc94y20",
+                        "label": "Funky House",
+                        "value": "FUNKY_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000d3b6kcafukv9g",
+                        "label": "Nu Disco",
+                        "value": "NU_DISCO"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wp5s000508l85ttja0r4",
+                        "label": "Electro (Classic / Detroit / Modern)",
+                        "value": "ELECTRO_CLASSIC_DETROIT_MODERN"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clzvrbgbk000mjt0liuhr1nko",
+                "imageKey": "images/an79dieu6eow9plw-wsuk.png",
+                "name": "AMOR",
+                "type": "PERSONAL",
+                "averageReviewTime": 73,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "FR",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "cm0w5nv4b000rmj0j8nehhwld",
+                "imageKey": "images/heye4oeettxpeax70xd8v.png",
+                "name": "Sound D Elite",
+                "type": "LABEL",
+                "averageReviewTime": 21,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "sound_delite",
+                "beatportLabelId": "118903",
+                "country": "IT",
+                "description": "<p></p>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    }
+                ]
+            },
+            {
+                "id": "clyq1fus80000l60llo78gmjj",
+                "imageKey": "images/ndu2qtlfcznlgpomdwj49.png",
+                "name": "RedVibes_music",
+                "type": "PERSONAL",
+                "averageReviewTime": 42,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "IT",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clywza20s000hla0k2w15vg9p",
+                "imageKey": "images/huregzqmhaopv61qri03o.png",
+                "name": "FUZE",
+                "type": "PERSONAL",
+                "averageReviewTime": 13,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": null,
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "cm01ht03g0001le0lhu8ytio2",
+                "imageKey": "images/hg8wxykclbm8zggyx_970.png",
+                "name": "Obsess Label",
+                "type": "LABEL",
+                "averageReviewTime": 49,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "obsesslabel",
+                "beatportLabelId": null,
+                "country": "US",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cldyicnmj00003b6keki7jmq7",
+                        "label": "Techno (Peak Time)",
+                        "value": "TECHNO_PEAK_TIME_DRIVING"
+                    }
+                ]
+            },
+            {
+                "id": "clyoit9hd0012mc0m2za2v3qa",
+                "imageKey": "images/bvsbzjuhqgmyc2sgjvh9x.png",
+                "name": "Elena Leao",
+                "type": "PERSONAL",
+                "averageReviewTime": 80,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "IE",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clmru3lln0007mk0lvb6ec1db",
+                "imageKey": "images/mshrvv94bapttyos3vdp5.png",
+                "name": "Sozef",
+                "type": "PERSONAL",
+                "averageReviewTime": 32,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "sozef.dj/",
+                "beatportLabelId": null,
+                "country": "NL",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clrl0wp5s000508l85ttja0r4",
+                        "label": "Electro (Classic / Detroit / Modern)",
+                        "value": "ELECTRO_CLASSIC_DETROIT_MODERN"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clzwyz0bz003il30jjttp3id5",
+                "imageKey": "images/e9mprtsi7ih5ur2vofuim.png",
+                "name": "Quack Squawk Honk",
+                "type": "LABEL",
+                "averageReviewTime": 0,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "quacksquawkhonk_",
+                "beatportLabelId": null,
+                "country": "US",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00073b6k7jdbywlg",
+                        "label": "Dance Electro Pop",
+                        "value": "DANCE_ELECTRO_POP"
+                    },
+                    {
+                        "id": "cldyicnmj000e3b6kostxmue4",
+                        "label": "Drum & Bass",
+                        "value": "DRUM_AND_BASS"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cldyicnmj00003b6keki7jmq7",
+                        "label": "Techno (Peak Time)",
+                        "value": "TECHNO_PEAK_TIME_DRIVING"
+                    }
+                ]
+            },
+            {
+                "id": "clz493xfc006ul30l2eg959ub",
+                "imageKey": "images/tvfl759cu0tap8je0sh8v.png",
+                "name": "Reclusa",
+                "type": "PERSONAL",
+                "averageReviewTime": 94,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "CH",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clwqruc500021js0n56wjety4",
+                "imageKey": "images/ukwzdsln3qpcu4xievkrs.png",
+                "name": "The Shalizi Group",
+                "type": "LABEL",
+                "averageReviewTime": 8,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "US",
+                "description": "<p>The Shalizi Group has quickly become one of the top entertainment and management companies in the industry. We live to break boundaries which has allowed us to manage some of the top multi-genre recording artists, DJ/Producers, and songwriters which includes household names such as Marshmello, Alesso, Afrojack, Jauz, Southside, Svdden Death and more. We support our growing roster through specialized in-house teams dedicated to talent management, digital marketing, merchandising, design, label services and brand development.&nbsp;&nbsp;TSG has partnerships with leaders in gaming, television, technology, consumer goods, fashion, and digital marketing, creating an ever-evolving platform for the success of our clients.</p><p>In essence: Think. Strategize. Go.</p><p><strong>Our inbox is open to receive Demo submissions from potential management artists or for release on one of our in-house dance labels</strong></p>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00073b6k7jdbywlg",
+                        "label": "Dance Electro Pop",
+                        "value": "DANCE_ELECTRO_POP"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00093b6ketc94y20",
+                        "label": "Funky House",
+                        "value": "FUNKY_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000b3b6kjapvos23",
+                        "label": "Electronica",
+                        "value": "ELECTRONICA"
+                    },
+                    {
+                        "id": "cldyicnmj000d3b6kcafukv9g",
+                        "label": "Nu Disco",
+                        "value": "NU_DISCO"
+                    },
+                    {
+                        "id": "cldyicnmj000e3b6kostxmue4",
+                        "label": "Drum & Bass",
+                        "value": "DRUM_AND_BASS"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clrge3uos000108l6dad56ms1",
+                        "label": "Dubstep",
+                        "value": "DUBSTEP"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wdv2000108l87q6y03wx",
+                        "label": "Bass / Club",
+                        "value": "BASS_CLUB"
+                    },
+                    {
+                        "id": "clrge5g24000408l65x8jhyuh",
+                        "label": "Trance (Main Floor)",
+                        "value": "TRANCE_MAIN_FLOOR"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clrl0wp5s000508l85ttja0r4",
+                        "label": "Electro (Classic / Detroit / Modern)",
+                        "value": "ELECTRO_CLASSIC_DETROIT_MODERN"
+                    },
+                    {
+                        "id": "clrl0wu3g000608l88fap59ec",
+                        "label": "Hard Dance / Hardcore",
+                        "value": "HARD_DANCE_HARDCORE"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clrl0x644000808l83ypch4gz",
+                        "label": "Organic House / Downtempo",
+                        "value": "ORGANISE_HOUSE_DOWNTEMPO"
+                    },
+                    {
+                        "id": "clrl0x8tj000908l8cj2153c9",
+                        "label": "Psy-Trance",
+                        "value": "PSYTRANCE"
+                    },
+                    {
+                        "id": "clrl0xblp000a08l8cq255dir",
+                        "label": "Techno (Raw / Deep / Hypnotic)",
+                        "value": "TECHNO_RAW_DEEP_HYNOTIC"
+                    },
+                    {
+                        "id": "clrl0xe0z000b08l8aikk5ega",
+                        "label": "Trance (Raw / Deep / Hypnotic)",
+                        "value": "TRANCE_RAW_DEEP_HYNOTIC"
+                    },
+                    {
+                        "id": "clrl0xgk5000c08l80yy9e2nl",
+                        "label": "Trap / Wave",
+                        "value": "TRAP_WAVE"
+                    },
+                    {
+                        "id": "clrnotevv000008l65d24gxdq",
+                        "label": "Amapiano",
+                        "value": "AMAPIANO"
+                    },
+                    {
+                        "id": "clsya6xzb000008l3ec330d6d",
+                        "label": "Hard Techno",
+                        "value": "HARD_TECHNO"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45uwf000108js46myb36g",
+                        "label": "Tech House (Latin)",
+                        "value": "TECH_HOUSE_LATIN"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    },
+                    {
+                        "id": "cldyicnmj00003b6keki7jmq7",
+                        "label": "Techno (Peak Time)",
+                        "value": "TECHNO_PEAK_TIME_DRIVING"
+                    }
+                ]
+            },
+            {
+                "id": "clvh9hf5p000al20omt3ssqpy",
+                "imageKey": "images/iodcr7mgwzft3w4y17opj.png",
+                "name": "SHIN (AR)",
+                "type": "PERSONAL",
+                "averageReviewTime": 26,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "shinmusic_",
+                "beatportLabelId": null,
+                "country": "AR",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "cm0wtuso00002lc0lm3odbmwi",
+                "imageKey": "images/7td3trz7x5xgdfk2eir9l.png",
+                "name": "Mazos Music",
+                "type": "PERSONAL",
+                "averageReviewTime": 36,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": null,
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj00093b6ketc94y20",
+                        "label": "Funky House",
+                        "value": "FUNKY_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45uwf000108js46myb36g",
+                        "label": "Tech House (Latin)",
+                        "value": "TECH_HOUSE_LATIN"
+                    }
+                ]
+            },
+            {
+                "id": "clng5lu1f0013ml0k8hs87tor",
+                "imageKey": "images/umjcakx_nr3skkjufy8ga.png",
+                "name": "Matteus",
+                "type": "PERSONAL",
+                "averageReviewTime": 35,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "matteusgilbert",
+                "beatportLabelId": null,
+                "country": "US",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj000d3b6kcafukv9g",
+                        "label": "Nu Disco",
+                        "value": "NU_DISCO"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0xblp000a08l8cq255dir",
+                        "label": "Techno (Raw / Deep / Hypnotic)",
+                        "value": "TECHNO_RAW_DEEP_HYNOTIC"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45uwf000108js46myb36g",
+                        "label": "Tech House (Latin)",
+                        "value": "TECH_HOUSE_LATIN"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    },
+                    {
+                        "id": "cldyicnmj00003b6keki7jmq7",
+                        "label": "Techno (Peak Time)",
+                        "value": "TECHNO_PEAK_TIME_DRIVING"
+                    }
+                ]
+            },
+            {
+                "id": "clvyfowvc0068md0p3ghlpqwy",
+                "imageKey": "images/akqhmj2rgfpybdqotqau4.png",
+                "name": "Ghetto Birds",
+                "type": "PERSONAL",
+                "averageReviewTime": 43,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "flywithghettobirds",
+                "beatportLabelId": null,
+                "country": "CA",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    }
+                ]
+            },
+            {
+                "id": "cm0n3mtmh0000mh0npdzja7kw",
+                "imageKey": "images/ikpd9fyy4_5kw0h0ovzxv.png",
+                "name": "Minor People",
+                "type": "PERSONAL",
+                "averageReviewTime": 28,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "IT",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45uwf000108js46myb36g",
+                        "label": "Tech House (Latin)",
+                        "value": "TECH_HOUSE_LATIN"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    }
+                ]
+            },
+            {
+                "id": "clwp6cplu0025lf0nhtdi3ob0",
+                "imageKey": "images/4ei6fx3om-x4_mtbgwcrv.png",
+                "name": "Hep",
+                "type": "PERSONAL",
+                "averageReviewTime": 18,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "CA",
+                "description": "<p>Send your stuff!</p>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clrl0wp5s000508l85ttja0r4",
+                        "label": "Electro (Classic / Detroit / Modern)",
+                        "value": "ELECTRO_CLASSIC_DETROIT_MODERN"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45uwf000108js46myb36g",
+                        "label": "Tech House (Latin)",
+                        "value": "TECH_HOUSE_LATIN"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    }
+                ]
+            },
+            {
+                "id": "clylii6zr0007le0o682oneoa",
+                "imageKey": "images/4yncldizlahptikmladmo.png",
+                "name": "Valiant Records",
+                "type": "LABEL",
+                "averageReviewTime": 17,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "valiantrecordsaus",
+                "beatportLabelId": null,
+                "country": "AU",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000d3b6kcafukv9g",
+                        "label": "Nu Disco",
+                        "value": "NU_DISCO"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clqg81wcb0002l00j2tnfq8if",
+                "imageKey": "images/y6wbfybydf8jqeh1l_qfp.png",
+                "name": "Top Secret Records",
+                "type": "LABEL",
+                "averageReviewTime": 105,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "topsecretbus",
+                "beatportLabelId": null,
+                "country": "US",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clj4scjdd06490jlfaqppo68q",
+                "imageKey": "images/tzmhhrmpv2fong1gbgme8.png",
+                "name": "Matt Egbert",
+                "type": "PERSONAL",
+                "averageReviewTime": 22,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "US",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clrl0wp5s000508l85ttja0r4",
+                        "label": "Electro (Classic / Detroit / Modern)",
+                        "value": "ELECTRO_CLASSIC_DETROIT_MODERN"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    }
+                ]
+            },
+            {
+                "id": "cm0iadocb001amd0p0211emvz",
+                "imageKey": "images/413lurqre6hsu_hg2wnlq.png",
+                "name": "Jentzen",
+                "type": "PERSONAL",
+                "averageReviewTime": 57,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "https://www.instagram.com/___jentzen/",
+                "beatportLabelId": null,
+                "country": null,
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clrl0wp5s000508l85ttja0r4",
+                        "label": "Electro (Classic / Detroit / Modern)",
+                        "value": "ELECTRO_CLASSIC_DETROIT_MODERN"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clyxrc361000gl50lqpm6gch9",
+                "imageKey": "images/qx1mjjtoikutx6-5dfefr.png",
+                "name": "Planet Fire Records",
+                "type": "LABEL",
+                "averageReviewTime": 19,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "planetfirerecords",
+                "beatportLabelId": null,
+                "country": "US",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clyscw10e0000l30p7nq34zm6",
+                "imageKey": "images/yqkjpvg_ellny_b3yzilx.png",
+                "name": "Ares Carter",
+                "type": "PERSONAL",
+                "averageReviewTime": 69,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "US",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "clrge5g24000408l65x8jhyuh",
+                        "label": "Trance (Main Floor)",
+                        "value": "TRANCE_MAIN_FLOOR"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cldyicnmj00003b6keki7jmq7",
+                        "label": "Techno (Peak Time)",
+                        "value": "TECHNO_PEAK_TIME_DRIVING"
+                    }
+                ]
+            },
+            {
+                "id": "cm0xff0lh000sjt0n9m1bsgzk",
+                "imageKey": "images/ppzlup196yqltotqxjfdr.png",
+                "name": "mojjo",
+                "type": "PERSONAL",
+                "averageReviewTime": 48,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "BR",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45uwf000108js46myb36g",
+                        "label": "Tech House (Latin)",
+                        "value": "TECH_HOUSE_LATIN"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    }
+                ]
+            },
+            {
+                "id": "clzd80fwa001tmf0mj8j2ngw3",
+                "imageKey": "images/q-i6j3tz31nilz8xylyns.png",
+                "name": "Mindset Music",
+                "type": "LABEL",
+                "averageReviewTime": 51,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "CL",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00013b6ke8u3qho6",
+                        "label": "Melodic House & Techno",
+                        "value": "MELODIC_HOUSE_AND_TECHNO"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "cldyicnmj000a3b6kivo4eujl",
+                        "label": "Afro House",
+                        "value": "AFRO_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00604b8kyrqop0nt",
+                        "label": "Latin House",
+                        "value": "LATIN_HOUSE"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "cm06lgt1t001hjx0p52qrt723",
+                "imageKey": "images/sj0frizwobnflbyscrv6x.png",
+                "name": "SundayNoiseMusic",
+                "type": "PERSONAL",
+                "averageReviewTime": 43,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "PE",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "clr3175bo0000l50jkomuklmh",
+                "imageKey": "images/gnlku_imt4uy08f1c-1mk.png",
+                "name": "Modapit",
+                "type": "PERSONAL",
+                "averageReviewTime": 46,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "modapit_",
+                "beatportLabelId": null,
+                "country": "US",
+                "description": "<p></p>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00083b6kdkel76dz",
+                        "label": "Bass House",
+                        "value": "BASS_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj000f3b6kc1vro1j9",
+                        "label": "Indie Dance",
+                        "value": "INDIE_DANCE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "clrge55al000308l6fmuth3tm",
+                        "label": "UK Garage",
+                        "value": "UK_GARAGE_BASSLINE"
+                    },
+                    {
+                        "id": "clrl0wjms000308l8bwcd54m8",
+                        "label": "Breaks / Breakbeat / UK Bass",
+                        "value": "BREAKS_BREAKBEAT_UK_BASS"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cldyicnmj00003b6keki7jmq7",
+                        "label": "Techno (Peak Time)",
+                        "value": "TECHNO_PEAK_TIME_DRIVING"
+                    }
+                ]
+            },
+            {
+                "id": "clzmvss8k0005m80pjkthna61",
+                "imageKey": "images/xtqcnpoaub7ogoqi1cubs.png",
+                "name": "NEED",
+                "type": "LABEL",
+                "averageReviewTime": 43,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": "needmusiclabel",
+                "beatportLabelId": null,
+                "country": "NL",
+                "description": "<h3><span>NEED is an independent record label based in Amsterdam. Established in 2020, its founders set out to create a platform that would represent the full spectrum of house music beyond the boundaries of its subgenres. They saw this as a <em>need</em> for the industry, which would become the inspiration for the imprint’s name.&nbsp;</span><br><br><span>Much like its native city, NEED has a dancefloor focus and welcomes different cultural influences to showcase their styles and sounds. The label is dedicated to supporting both local and international talent, from new to established names.&nbsp;</span><br><span>NEED understands the importance of a progressive approach that covers digital and physical releases, streaming, vinyl, showcases and hostings to make sure great music makes an even greater impact.&nbsp;</span></h3>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "cljmya9po0000l30jl20blwcq",
+                "imageKey": "images/prime.jpeg",
+                "name": "Prime Society",
+                "type": "LABEL",
+                "averageReviewTime": 54,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": false,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "GB",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00023b6ks4c1g5w4",
+                        "label": "Progressive House",
+                        "value": "PROGRESSIVE_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00033b6kcu3r9adj",
+                        "label": "House",
+                        "value": "HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00043b6ka96of35q",
+                        "label": "Deep House",
+                        "value": "DEEP_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00103b6kyrqop0nw",
+                        "label": "Techno",
+                        "value": "TECHNO"
+                    },
+                    {
+                        "id": "clrl0x3bh000708l86r242561",
+                        "label": "Jackin House",
+                        "value": "JACKIN_HOUSE"
+                    },
+                    {
+                        "id": "clrl0xblp000a08l8cq255dir",
+                        "label": "Techno (Raw / Deep / Hypnotic)",
+                        "value": "TECHNO_RAW_DEEP_HYNOTIC"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cldyicnmj00003b6keki7jmq7",
+                        "label": "Techno (Peak Time)",
+                        "value": "TECHNO_PEAK_TIME_DRIVING"
+                    }
+                ]
+            },
+            {
+                "id": "cls3v2n7j000sl00nky3g6pga",
+                "imageKey": "images/gbkxzwqnen5qn7e8lhrsp.png",
+                "name": "CALVES",
+                "type": "PERSONAL",
+                "averageReviewTime": 3,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "itsmecalves",
+                "beatportLabelId": null,
+                "country": "BR",
+                "description": null,
+                "genre": [
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    },
+                    {
+                        "id": "cm0m45zzf000208js0wf9e18g",
+                        "label": "Tech House (Trippy)",
+                        "value": "TECH_HOUSE_TRIPPY"
+                    }
+                ]
+            },
+            {
+                "id": "cm2aah0tn0005uogafzthbvdb",
+                "imageKey": "images/1a3cnwdxpjfnl8h3hacal.png",
+                "name": "Ryan Resso",
+                "type": "PERSONAL",
+                "averageReviewTime": 1,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": "ryanresso",
+                "beatportLabelId": null,
+                "country": "GB",
+                "description": "<p></p>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00053b6kb2b411os",
+                        "label": "Tech House",
+                        "value": "TECH_HOUSE"
+                    },
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
+            },
+            {
+                "id": "cljn0om5o0044l70kqegv8bd5",
+                "imageKey": "images/iz28d_ghzj5dazrfpuyzj.png",
+                "name": "CLEO RECORDINGS",
+                "type": "LABEL",
+                "averageReviewTime": 34,
+                "maxSubmissionTrackLimit": null,
+                "password": null,
+                "verified": true,
+                "instagramHandle": null,
+                "beatportLabelId": null,
+                "country": "IT",
+                "description": "<p>Underground label of Cube Recordings' family. Minimal Tech &amp; Deep/Tech House.</p>",
+                "genre": [
+                    {
+                        "id": "cldyicnmj00063b6ko564slco",
+                        "label": "Minimal Deep Tech",
+                        "value": "MINIMAL_DEEP_TECH"
+                    },
+                    {
+                        "id": "clyfr78vl000008iacswu0uvl",
+                        "label": "Tech House (Rolling)",
+                        "value": "TECH_HOUSE_ROLLING"
+                    }
+                ]
             }
         ]
     }
