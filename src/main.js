@@ -3,6 +3,7 @@ import { EffectComposer, RenderPass } from 'postprocessing';
 import { SceneManager } from './scenes/SceneManager.js';
 import { ScrollController } from './utils/ScrollController.js';
 import { DataManager } from './data/DataManager.js';
+import data from './data/releases.json';
 
 class HRVSTApp {
     constructor() {

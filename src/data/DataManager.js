@@ -1,13 +1,15 @@
+import data from './releases.json';
+
 class DataManager {
     constructor() {
-        this.data = null;
+        this.data = data;
         this.isLoaded = false;
     }
     
     async loadData() {
         try {
             // Load release data from JSON
-            const response = await fetch('/src/data/releases.json');
+            const response = await fetch('/releases.json');
             if (!response.ok) {
                 throw new Error(`Failed to load data: ${response.status}`);
             }
