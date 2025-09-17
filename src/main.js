@@ -162,7 +162,7 @@ class HRVSTApp {
                 pressKitLink.href = data.artistInfo.pressKit;
             }
             const contactLink = document.getElementById('contact-link');
-            if (contactLink) {
+            if (contactLink && data.artistInfo.contact && data.artistInfo.contact.general) {
                 contactLink.href = data.artistInfo.contact.general;
             }
         }
