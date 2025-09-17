@@ -1,27 +1,23 @@
 {
-  "name": "hrvst",
-  "version": "0.1.0",
-  "private": true,
+  "name": "hrvst-2026",
+  "version": "1.0.0",
+  "description": "Interactive parallax website for electronic music artist HRVST featuring procedurally generated art and shader-based transitions",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "vite",
+    "build": "vite build", 
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["three.js", "webgl", "electronic-music", "interactive", "procedural-art", "shaders"],
+  "author": "HRVST",
+  "license": "ISC",
+  "type": "module",
   "dependencies": {
-    "@next/font": "13.1.1",
-    "autoprefixer": "^10.4.13",
-    "eslint": "8.31.0",
-    "eslint-config-next": "13.1.1",
-    "next": "13.1.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-lite-youtube-embed": "^2.3.52",
-    "react-social-icons": "^5.15.0"
+    "postprocessing": "^6.37.8",
+    "three": "^0.180.0"
   },
   "devDependencies": {
-    "@tailwindcss/aspect-ratio": "^0.4.2",
-    "prettier": "^2.8.7",
-    "prettier-plugin-tailwindcss": "^0.2.7"
+    "vite": "^7.1.5"
   }
 }

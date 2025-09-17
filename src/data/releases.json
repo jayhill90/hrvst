@@ -1,0 +1,209 @@
+{
+  "latestRelease": {
+    "title": "Haters",
+    "artist": "HRVST",
+    "releaseDate": "2025-04-23",
+    "coverArt": "/assets/covers/haters.jpg",
+    "description": "​HRVST, a Dallas-based DJ and producer renowned for his underground minimal bassline-focused tech house sound, has unveiled his latest deep tech track, \"Haters,\" on the 63b label. With over two decades of studio experience, HRVST crafts enticing soundscapes characterized by dirty rhythms and chugging bass lines. His influences span UK Dubstep, West Coast Glitch Hop, and Minimal Tech House, resulting in productions that deliver immersive vibes. \"Haters\" exemplifies HRVST's signature style, featuring back-alley tinged basslines, psychedelic synth riffs, and original vocal hooks that define his unique sound.",
+    "platforms": {
+      "spotify": "https://open.spotify.com/album/341e4MzR9ahXaOZLnSvsao",
+      "soundcloud": "https://soundcloud.com/63brecords/hrvst-haters-63b",
+      "beatport": "https://www.beatport.com/track/haters/20329667?",
+      "traxsource": "https://www.traxsource.com/title/2503450/haters"
+    }
+  },
+  "releases": [
+    {
+      "id": 1,
+      "title": "Haters",
+      "artist": "HRVST",
+      "releaseDate": "2025-04-23",
+      "coverArt": "/assets/covers/haters.jpg",
+      "platforms": {
+        "spotify": "https://open.spotify.com/album/341e4MzR9ahXaOZLnSvsao",
+        "soundcloud": "https://soundcloud.com/63brecords/hrvst-haters-63b",
+        "beatport": "https://www.beatport.com/track/haters/20329667?",
+        "traxsource": "https://www.traxsource.com/title/2503450/haters"
+      },
+      "recordLabel": "63b"
+    },
+    {
+      "id": 2,
+      "title": "One Way Trip",
+      "artist": "HRVST",
+      "releaseDate": "2024-08-02",
+      "coverArt": "/assets/covers/onewaytrip.jpg",
+      "platforms": {
+        "spotify": "https://open.spotify.com/artist/placeholder",
+        "soundcloud": "https://soundcloud.com/unlearnrec/onewaytrip?", 
+        "beatport": "https://www.beatport.com/release/one-way-trip/4655072"
+      },
+      "recordLabel": "Unlearn:Records"
+    },
+    {
+      "id": 5,
+      "title": "Pulse Rate | Unlearn:Miami 2024",
+      "artist": "HRVST",
+      "releaseDate": "2024-03-15",
+      "coverArt": "/assets/covers/pulserate.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/unlearnrec/pulserate",
+        "beatport": "https://www.beatport.com/track/pulse-rate/18769046",
+        "traxsource": null
+      },
+      "recordLabel": "Unlearn:Records"
+    },
+    {
+      "id": 7,
+      "title": "Chunky Munky | Bumpin Summer EP",
+      "artist": "HRVST",
+      "releaseDate": "2023-08-02",
+      "coverArt": "/assets/covers/bumpinsummer.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/takeachancerecords/hrvst-chunky-munky-original-mix",
+        "beatport": "https://www.beatport.com/track/chunky-munky/17948928",
+        "traxsource": null
+      },
+      "recordLabel": "Take A Chance Records"
+    },
+    {
+      "id": 8,
+      "title": "Bassbin Lifestyle EP",
+      "artist": "HRVST",
+      "releaseDate": "2023-07-13",
+      "coverArt": "/assets/covers/bassbin-lifestyle.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/hrvstbeats/sets/bassbin-lifestyle-ep-slabbed",
+        "beatport": "https://www.beatport.com/release/bassbin-lifestyle-ep/4177982",
+        "traxsource": null
+      },
+      "recordLabel": "Slabbed Out Digital"
+    },
+    {
+      "id": 9,
+      "title": "Drippin Sweat EP",
+      "artist": "HRVST",
+      "releaseDate": "2023-05-05",
+      "coverArt": "/assets/covers/drippinsweat.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/hrvstbeats/sets/drippin-sweat-ep",
+        "beatport": "https://www.beatport.com/release/drippin-sweat-ep/4074205",
+        "traxsource": null
+      },
+      "recordLabel": "Slabbed Out Digital"
+    },
+    {
+      "id": 10,
+      "title": "Pop It | Unlearn:Miami 2023",
+      "artist": "HRVST",
+      "releaseDate": "2023-03-03",
+      "coverArt": "/assets/covers/popit.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/unlearnrec/popit",
+        "beatport": "https://www.beatport.com/track/pop-it/17429333",
+        "traxsource": null
+      },
+      "recordLabel": "Unlearn:Records"
+    },
+    {
+      "id": 11,
+      "title": "Git Up / Synchronic",
+      "artist": "HRVST",
+      "releaseDate": "2023-02-10",
+      "coverArt": "/assets/covers/gitup.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/hrvstbeats/sets/hrvst-git-up-ep",
+        "beatport": "https://www.beatport.com/release/git-up-synchronic/3971789",
+        "traxsource": null
+      },
+      "recordLabel": "Late Night Munchies"
+    },
+    {
+      "id": 12,
+      "title": "FRAGMENTATION & R U E'N",
+      "artist": "HRVST",
+      "releaseDate": "2022-10-27",
+      "coverArt": "/assets/covers/fragmentation.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/hrvstbeats/sets/fragmentation-r-u-en",
+        "beatport": "https://www.beatport.com/release/fragmentation-r-u-en/3904035",
+        "traxsource": null
+      },
+      "recordLabel": "Take A Chance Records"
+    },
+    {
+      "id": 14,
+      "title": "Different / Sleeping People",
+      "artist": "HRVST",
+      "releaseDate": "2022-07-11",
+      "coverArt": "/assets/covers/different.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/hrvstbeats/sets/hrvst-different-sleeping",
+        "beatport": "https://www.beatport.com/release/different-sleeping-people/3801267",
+        "traxsource": null
+      },
+      "recordLabel": "Slabbed Out Digital"
+    },
+    {
+      "id": 15,
+      "title": "Finger Wagging / Like A Robot",
+      "artist": "HRVST",
+      "releaseDate": "2022-04-01",
+      "coverArt": "/assets/covers/fingerwagging.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/late-night-munchies/sets/lnmm155-hrvst-finger-wagging-like-a-robot",
+        "beatport": "https://www.beatport.com/release/finger-wagging-like-a-robot/3608980",
+        "traxsource": null
+      },
+      "recordLabel": "Unlearn:Records"
+    },
+    {
+      "id": 16,
+      "title": "Haze",
+      "artist": "HRVST",
+      "releaseDate": "2022-01-13",
+      "coverArt": "/assets/covers/haze.jpg",
+      "platforms": {
+        "spotify": null,
+        "soundcloud": "https://soundcloud.com/hrvstbeats/haze",
+        "beatport": "https://www.beatport.com/release/haze/3591974",
+        "traxsource": null
+      },
+      "recordLabel": "83"
+    }
+  ],
+  "djMixes": {
+    "playlistUrl": "https://soundcloud.com/hrvstbeats/sets/the-slabbed-out-sesh",
+    "alternateUrl": "https://youtube.com/playlist?list=placeholder",
+    "title": "HRVST DJ Mix Collection",
+    "description": "Curated electronic music journeys and live DJ performances"
+  },
+  "artistInfo": {
+    "bio": "Producer and DJ are just a few of the hats that digital media artist, HRVST wears. With over 20 years experience in the studio, he has honed his soundscapes to entice listeners with dirty rhythms and chugging bass lines.\n Taking inspiration from UK Dubstep, West Coast Glitch Hop, and Minimal Tech House, HRVST seamlessly delivers with every production. Back alley tinged basslines to rattle your chest, psychedelic synth riffs floating through space, and original vocal hooks are defining staples of his sound.\n Equipped with vibes for any situation, HRVST's DJ sets are unparalleled with performances exploring different bass fueled flavors of Tech House, UK Garage, and Broken Beats.",
+    "pressKit": "https://slabbedout.live/hrvst",
+    "social": {
+      "soundcloud": "https://soundcloud.com/hrvstbeats",
+      "spotify": "https://open.spotify.com/artist/placeholder",
+      "instagram": "https://instagram.com/hrvst_music",
+      "twitter": "https://twitter.com/hrvst_music"
+    },
+    "contact": {
+      "booking": "mailto:jay@slabbedout.live",
+      "general": "mailto:hrvst@soundsofibiza.co.uk?subject=Booking%20Inquiry%20For%20HRVST"
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-09-15T15:30:00Z",
+    "version": "1.0.0",
+    "apiEndpoint": null
+  }
+}

@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Creating New 3d Scenes
+The SceneManager.js file is responsible for handling the WebGL scenes and animations. 
 
-## Getting Started
+Each geometry and section has a createGEOMETRYNAME() method that creates the new geometry applies the material, adds it to the scene, and sets positioning. 
 
-First, run the development server:
+The `updateVisibility()` method controls which animation displays in which section of the website. To change the order, these sections would be changed.
 
-```bash
-npm run dev
-# or
-yarn dev
+Handling of the render updates for the different animations is done in the `update()` method within the same file. This method takes in the deltaTime and elapsedTime as arguments and will apply smooth transitions to each effect. This method calls the individual update functions pertaining to each geometry that we've added to the scene.
+
+The `update()` method also applies the smoothing of visibiity with `applySmoothVisibility()` method which essentially just uses the lerp function to fade between opacity of materials on the object.
+
+Example: 
+```js
+// Smooth point network opacity
+    if (this.pointNetwork) {
+        this.transitionStates.pointNetwork.opacity = this.lerp(
+            this.transitionStates.pointNetwork.opacity,
+            this.transitionStates.pointNetwork.targetOpacity,
+            speed
+        );
+        this.pointNetwork.material.opacity = this.transitionStates.pointNetwork.opacity;
+        this.pointNetwork.visible = this.transitionStates.pointNetwork.opacity > TransitionConfig.visibility.minOpacity;
+        
+        // Update line network visibility to match points
+        if (this.pointNetworkLines) {
+            this.pointNetworkLines.visible = this.pointNetwork.visible;
+        }
+    }
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

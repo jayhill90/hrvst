@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HRVST - Interactive Music Experience</title>
+    <meta name="description" content="HRVST - Electronic music artist featuring procedurally generated art and immersive web experiences">
+    <svg width="0" height="0" style="position: absolute;">
+      <defs>
+        <filter id="bloom">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+          <feFlood flood-color="white" flood-opacity="0.3" result="flood" />
+          <feComposite in="flood" in2="blur" operator="atop" result="composite" />
+          <feMerge>
+            <feMergeNode in="composite" />
+            <feMergeNode in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+    </svg> 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading">
+        <div class="loading-text">INITIALIZING HRVST...</div>
+    </div>
+
+    <!-- Hamburger Button (add this just before .section-nav) -->
+    <button id="hamburger-btn" class="hamburger-btn" aria-label="Open navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <!-- Three.js Canvas Container -->
+    <div id="canvas-container" style="background: red;"></div>
+    
+    <!-- Scrollable Content -->
+    <div id="content">
+        <!-- Section 1: Home / Vaporwave Grid -->
+        <section id="section-home" class="section">
+            <div class="section-content">
+                <h1 id="hrvst-title"><?xml version="1.0" encoding="UTF-8"?><svg id="a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2593.75 400"><defs><style>.b{fill:#fff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><polygon class="b" points="1293.71 285.6 1154.93 0 1043.75 0 1238.11 400 1349.29 400 1543.69 0 1432.51 0 1293.71 285.6"/><polygon class="b" points="2093.75 0 2093.75 100 2293.75 100 2293.75 400 2393.75 400 2393.75 100 2593.75 100 2593.75 0 2093.75 0"/><path class="b" d="M1050,150C1050,67.16,982.84,0,900,0h-350V400h100V100h250c27.61,0,50,22.39,50,50s-22.39,50-50,50h-176.79l51.56,100h110.93l51.56,100h112.51l-65.06-126.2c39.43-27.03,65.3-72.39,65.3-123.8Z"/><polygon class="b" points="400 150 100 150 100 0 0 0 0 400 100 400 100 250 400 250 400 400 500 400 500 0 400 0 400 150"/><path class="b" d="M1543.75,125c0,69.04,55.96,125,125,125h57.44l1.59-3.08,47.1-96.92h-106.13c-13.81,0-25-11.19-25-25s11.19-25,25-25h326.4L2043.75,0h-375c-69.04,0-125,55.96-125,125Z"/><path class="b" d="M1918.75,150h-57.44l-48.65,100h106.09c13.81,0,25,11.19,25,25s-11.19,25-25,25h-326.4l-48.6,100h375c69.04,0,125-55.96,125-125s-55.96-125-125-125Z"/></svg></h1>
+            </div>
+        </section>
+
+        <!-- Section 2: Artist Bio / Point Network -->
+        <section id="section-bio" class="section">
+            <div class="section-content">
+                <div class="bio-content">
+                    <p id="artist-bio">Loading artist information...</p>
+                    <a href="#" target="_blank" class="press-kit-link" id="press-kit-link">Press Kit</a>
+                    <a href="#" target="_blank" class="press-kit-link" id="contact-link">Contact</a>
+
+                </div>
+            </div>
+        </section>
+        <!-- Section 3: Latest Release / Glowing Sphere -->
+        <section id="section-release" class="section">
+            <div class="section-content">
+                <div class="release-info">
+                    <img id="latest-release-cover" class="latest-release-cover" src="" alt="" style="display:none;" />
+                    <h2 id="latest-release-title">Loading...</h2>
+                    <p id="latest-release-description">Discover the latest electronic sounds from HRVST</p>
+                    <button class="listen-button" id="latest-listen-btn">Listen Now</button>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Section 4: Album Gallery / Rotating Cubes -->
+        <section id="section-gallery" class="section">
+            <div class="section-content">
+                <!-- Cube interactions handled by Three.js -->
+                <div id="release-cards" class="release-cards"></div>
+            </div>
+        </section>
+        
+        <!-- Section 5: DJ Mixes / Particle Streams -->
+        <section id="section-mixes" class="section">
+            <div class="section-content">
+                <div class="player-container">
+                    <h2 style="text-align: center; margin-bottom: 1rem;">DJ Mixes</h2>
+                    <!-- Placeholder for embedded player - will be populated by JavaScript -->
+                    <div id="mix-player">
+                        <p style="text-align: center;">Loading mix player...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+
+    </div>
+    
+    <!-- Section Navigation Dots -->
+    <div class="section-nav" id="section-nav">
+        <a href="#section-home" class="section-home-link" id="section-home-link">HOME</a>
+        <div class="section-dot active" data-section="0" title="Home"><span>Home</span></div>
+        <div class="section-dot" data-section="1" title="About"><span>Bio</span></div>
+        <div class="section-dot" data-section="2" title="Latest Release"><span>Latest Music</span></div>
+        <div class="section-dot" data-section="3" title="Gallery"><span>More Music</span></div>
+        <div class="section-dot" data-section="4" title="DJ Mixes"><span>DJ Mixes</span></div>
+    </div>
+    
+    <!-- Navigation Hints -->
+    <div class="nav-hint" id="nav-hint">
+        Use arrow keys, scroll wheel, or click dots to navigate sections
+    </div>
+    
+    <!-- Platform Popover -->
+    <div id="platform-popover" class="platform-popover">
+        <button class="close-popover" onclick="closePlatformPopover()">&times;</button>
+        <h3 id="popover-title">Listen Now</h3>
+        <div class="platform-links" id="platform-links">
+            <!-- Platform links will be populated by JavaScript -->
+        </div>
+    </div>
+
+    <!-- Album Popover (newly added) -->
+    <div id="album-popover" class="album-popover">
+        <button class="close-popover" onclick="closeAlbumPopover()">&times;</button>
+        <img id="album-popover-art" src="" alt="Album Art" />
+        <div class="album-popover-title" id="album-popover-title"></div>
+        <div class="album-popover-links" id="album-popover-links"></div>
+    </div>
+    
+    <script>
+      const hamburgerBtn = document.getElementById('hamburger-btn');
+      const sectionNav = document.getElementById('section-nav');
+      hamburgerBtn.addEventListener('click', () => {
+        sectionNav.classList.toggle('open');
+        hamburgerBtn.classList.toggle('hide', sectionNav.classList.contains('open'));
+      });
+      // Optional: close menu when clicking a nav dot
+      sectionNav.querySelectorAll('.section-dot').forEach(dot => {
+        dot.addEventListener('click', () => {
+          sectionNav.classList.remove('open');
+          hamburgerBtn.classList.remove('hide');
+        });
+      });
+      // Add close-on-click for HOME link
+      document.getElementById('section-home-link').addEventListener('click', function() {
+        sectionNav.classList.remove('open');
+        hamburgerBtn.classList.remove('hide');
+        // Optionally scroll to top if not using anchor navigation
+        // window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      
+      function openPlatformPopover() {
+  const popover = document.getElementById('platform-popover');
+  popover.style.display = 'block'; // Ensure it's visible for transition
+  setTimeout(() => popover.classList.add('show'), 10); // Allow reflow for transition
+}
+
+function closePlatformPopover() {
+  const popover = document.getElementById('platform-popover');
+  popover.classList.remove('show');
+  // Wait for transition to finish before hiding
+  setTimeout(() => {
+    if (!popover.classList.contains('show')) {
+      popover.style.display = 'none';
+    }
+  }, 1000); // Match the CSS transition duration
+}
+
+function openAlbumPopover(album) {
+  const popover = document.getElementById('album-popover');
+  document.getElementById('album-popover-art').src = album.art;
+  document.getElementById('album-popover-title').innerText = album.title;
+  const linksContainer = document.getElementById('album-popover-links');
+  linksContainer.innerHTML = ''; // Clear existing links
+  album.links.forEach(link => {
+    const a = document.createElement('a');
+    a.href = link.url;
+    a.innerText = link.platform;
+    a.target = '_blank';
+    linksContainer.appendChild(a);
+  });
+  popover.style.display = 'block';
+  setTimeout(() => popover.classList.add('show'), 10);
+}
+
+function closeAlbumPopover() {
+  const popover = document.getElementById('album-popover');
+  popover.classList.remove('show');
+  setTimeout(() => {
+    if (!popover.classList.contains('show')) {
+      popover.style.display = 'none';
+    }
+  }, 1000);
+}
+    </script>
+    <script type="module" src="/src/main.js"></script>
+</body>
+</html>
