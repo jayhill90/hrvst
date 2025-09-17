@@ -1,8 +1,6 @@
-import data from './releases.json';
-
 class DataManager {
     constructor() {
-        this.data = data;
+        this.data = null;
         this.isLoaded = false;
     }
     
