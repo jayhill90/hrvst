@@ -272,9 +272,13 @@ class DataManager {
     "pressKit": "https://slabbedout.live/hrvst",
     "social": {
       "soundcloud": "https://soundcloud.com/hrvstbeats",
-      "spotify": "https://open.spotify.com/artist/placeholder",
+      "spotify": "https://open.spotify.com/artist/4laUZIDTrzWHmMQS1QGcIC",
       "instagram": "https://instagram.com/hrvst_music",
-      "twitter": "https://twitter.com/hrvst_music"
+      "twitter": "https://twitter.com/hrvst_music",
+      "youtube": "https://youtube.com/@hrvstmusic",
+      "threads": "https://www.threads.net/@hrvst_music",
+      "signal": "https://signal.me/#eu/29SQ9vD05BtYVBppLYn8_M2smpxXJKPQocVQPEoh6Cbrw9mI6ANBVLLmnBae87u2",
+      
     },
     "contact": {
       "booking": "mailto:jay@slabbedout.live",

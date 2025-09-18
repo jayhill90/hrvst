@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&family=Pixelify+Sans:wght@400..700&display=swap');
         * {
             margin: 0;
@@ -696,4 +697,42 @@
         width: 140px;
         height: 140px;
     }
+}
+/* Social Media Icons Row for Hero */
+.hero-social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.icon-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s;
+}
+
+.icon-link:hover {
+    transform: scale(1.25);
+}
+
+.social-icon {
+    width: 32px;
+    height: 32px;
+    stroke: #fff;
+    fill: #fff;
+    filter: drop-shadow(0 0 6px #fff8) drop-shadow(0 0 2px #fff8);
+    background: none;
+    transition: filter 0.5s ease-in-out;
+}
+
+/* Special handling for SoundCloud icon (force white fill/stroke) */
+.soundcloud-icon {
+    background: none;
+    filter: invert(1);
+
+
 }
