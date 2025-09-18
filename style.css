@@ -35,20 +35,63 @@
             scroll-snap-type: y proximity;
         }
         
-        .section {
-            height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            position: relative;
-            scroll-snap-align: center;
-            scroll-snap-stop: always;
-        }
+                .section {
+                        height: 100vh;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        position: relative;
+                        scroll-snap-align: center;
+                        scroll-snap-stop: always;
+                }
+
+@media (max-width: 700px) {
+    .section {
+        height: auto !important;
+        min-height: 80vh;
+        flex-direction: column;
+        padding: 2.5rem 0 2.5rem 0;
+        margin-bottom: 2.5rem;
+    }
+    .section-content {
+        padding: 0 0.5rem;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 100vw;
+    }
+    #section-release .section-content {
+        flex-direction: column !important;
+        align-items: stretch !important;
+        height: auto !important;
+        gap: 2rem;
+    }
+    .release-info {
+        width: 100%;
+        padding-left: 0;
+        margin-bottom: 2rem;
+    }
+    .latest-release-card {
+        margin-right: 0;
+        margin-bottom: 2rem;
+        max-width: 100vw;
+        width: 100%;
+    }
+    .release-cards {
+        margin-top: 0;
+        gap: 1.5rem;
+    }
+    .release-card {
+        width: 95vw;
+        max-width: 340px;
+        margin: 0 auto;
+    }
+}
         
         .section-content {
             max-width: 1440px;
             width: 100%;
             padding: 0 2rem;
+            margin: 2rem auto;
         }
         
         /* Section 1: Home */
@@ -464,14 +507,11 @@
 }
 @media (max-width: 768px) {
     .release-cards {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 }
-@media (max-width: 700px) {
-    .release-cards {
-        grid-template-columns: 2fr;
-    }
-}
+
+
 .release-card {
     background: rgba(30,30,30,0.8);
     border-radius: 1rem;
