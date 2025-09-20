@@ -119,7 +119,9 @@
         }
         
         #section-release .section-content {
-            display: flex;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: .5rem;
             align-items: center;
             height: 100%;
         }
@@ -518,6 +520,11 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+@media (min-width: 200px) and (max-width: 767px) {
+    .release-cards {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
 
 
 .release-card {
@@ -702,18 +709,19 @@
 }
 /* Social Media Icons Row for Hero */
 .hero-social-icons {
-    display: flex;
     justify-content: center;
     align-items: center;
     max-width: 768px;
     margin-left: auto;
     margin-right: auto;
     gap: 2rem;
+    ma: 0 1rem;
     margin-top: 2.5rem;
     margin-bottom: 1.5rem;
 }
 
 .icon-link {
+    padding: 0 0.5rem;
     display: inline-flex;
     align-items: center;
     justify-content: center;
