@@ -18,7 +18,7 @@ const fragmentShader = /* glsl */`
         vec4 green = texture2D(inputBuffer, uv);
         vec4 blue = texture2D(inputBuffer, uv - offset);
 
-        outputColor = vec4(red.r, green.g, blue.b, 0.8);
+        outputColor = vec4(red.r, green.g, blue.b, 1.0);
     }
 `;
 
