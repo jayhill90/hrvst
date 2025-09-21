@@ -11,14 +11,14 @@ const fragmentShader = /* glsl */`
 
     void mainImage(const in vec4 inputColor, const in vec2 uv, out vec4 outputColor) {
         // Create a noisy, time-varying offset
-        float noise = rand(sin(uv)s + time) * 2.0 - 1.0; // -1 to 1
+        float noise = rand(sin(uv) + time) * 2.0 - 1.0; // -1 to 1
         vec2 offset = amount * vec2(cos(time), sin(time)) * noise * 50.0;
 
         vec4 red = texture2D(inputBuffer, uv + offset);
         vec4 green = texture2D(inputBuffer, uv);
         vec4 blue = texture2D(inputBuffer, uv - offset);
 
-        outputColor = vec4(red.r, green.g, blue.b, 1.0);
+        outputColor = vec4(red.r, green.g, blue.b, 0.8);
     }
 `;
 
