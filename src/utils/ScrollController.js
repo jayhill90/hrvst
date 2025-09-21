@@ -2,11 +2,14 @@
 import { TransitionConfig, applyEasing, logTransitionState } from './TransitionConfig.js';
 
 class ScrollController {
-    constructor(sceneManager, camera) {
+    constructor(app, sceneManager, camera) {
+        this.app = app;
         this.sceneManager = sceneManager;
         this.camera = camera;
         
         this.scrollY = 0;
+        this.lastScrollY = 0;
+        this.scrollVelocity = 0;
         this.maxScroll = 0;
         this.scrollPercent = 0;
         this.currentSection = 0;
@@ -281,6 +284,16 @@ class ScrollController {
     
     update() {
         if (!this.isInitialized || !this.camera) return;
+
+        // Calculate scroll velocity
+        this.scrollVelocity = this.scrollY - this.lastScrollY;
+        this.lastScrollY = this.scrollY;
+
+        // Update glitch effect based on scroll velocity
+        if (this.app && this.app.rgbShiftEffect) {
+            const amount = Math.abs(this.scrollVelocity) * 0.0001;
+            this.app.rgbShiftEffect.amount = this.lerp(this.app.rgbShiftEffect.amount, amount, 0.1);
+        }
         
         // Enhanced camera position interpolation with adaptive damping
         const lerpFactor = this.transitionSettings.cameraLerpFactor;
