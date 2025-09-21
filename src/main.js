@@ -1,8 +1,9 @@
 import * as THREE from 'three';
-import { EffectComposer, RenderPass } from 'postprocessing';
+import { EffectComposer, RenderPass, EffectPass } from 'postprocessing';
 import { SceneManager } from './scenes/SceneManager.js';
 import { ScrollController } from './utils/ScrollController.js';
 import { DataManager } from './data/DataManager.js';
+import { RGBShiftEffect } from './effects/RGBShiftEffect.js';
 
 class HRVSTApp {
     constructor() {
@@ -14,6 +15,9 @@ class HRVSTApp {
         this.camera = null;
         this.renderer = null;
         this.composer = null;
+        
+        // Post-processing effects
+        this.rgbShiftEffect = null;
         
         // Custom managers
         this.sceneManager = null;
@@ -51,7 +55,7 @@ class HRVSTApp {
             await this.sceneManager.init();
             
             // Initialize scroll controller
-            this.scrollController = new ScrollController(this.sceneManager, this.camera);
+            this.scrollController = new ScrollController(this, this.sceneManager, this.camera);
             this.scrollController.init();
             
             // Populate UI with data
@@ -128,9 +132,14 @@ class HRVSTApp {
             frameBufferType: THREE.HalfFloatType
         });
         
-        // Add render pass - this is essential for rendering the scene
+        // Add render pass
         const renderPass = new RenderPass(this.scene, this.camera);
         this.composer.addPass(renderPass);
+        
+        // Add RGB shift pass
+        this.rgbShiftEffect = new RGBShiftEffect();
+        const pass = new EffectPass(this.camera, this.rgbShiftEffect);
+        this.composer.addPass(pass);
     }
     
     populateUI() {
@@ -342,6 +351,11 @@ class HRVSTApp {
         
         const deltaTime = this.clock.getDelta();
         const elapsedTime = this.clock.getElapsedTime();
+        
+        // Update time uniform for our custom effect
+        if (this.rgbShiftEffect) {
+            this.rgbShiftEffect.uniforms.get('time').value = elapsedTime;
+        }
         
         // Update scene manager
         if (this.sceneManager) {
